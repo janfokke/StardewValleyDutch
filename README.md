@@ -2,6 +2,8 @@
 
 Deze repository bevat de Nederlanse vertaling voor Stardew Valley.
 
+Vertaald door: **JanFokke** en **Superteletubbies64**
+
 # Installatie
 
 ## Installer (Alleen voor windows)
