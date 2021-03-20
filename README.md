@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/17224428/111884012-10e2f400-89bf-11eb-9d65-3b0d1e0a78e0.png)
 
 
-Deze repository bevat de Nederlanse vertaling voor Stardew Valley.
+Deze repository bevat de Nederlandse vertaling voor Stardew Valley.
 
 :warning: De mod is uitvoerig getest, maar er kunnen natuurlijk nog foutjes in zitten. Maak daarom een backup van je savegames voordat je deze mod gaat gebruiken. Mocht je een fout tegenkomen, dan stellen wij het zeer op prijs als je hier een [Issue](https://github.com/janfokke/StardewValleyDutch/issues) voor aanmaakt.
 
