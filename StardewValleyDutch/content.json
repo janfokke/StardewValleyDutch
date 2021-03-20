@@ -1,0 +1,1537 @@
+{
+  "Format": "1.21.0",
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "LooseSprites/Billboard",
+      "FromFile": "LooseSprites/Billboard.de-DE.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "LooseSprites/ControllerMaps",
+      "FromFile": "LooseSprites/ControllerMaps.de-DE.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "LooseSprites/Cursors.de-DE.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "LooseSprites/JojaCDForm",
+      "FromFile": "LooseSprites/JojaCDForm.de-DE.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "LooseSprites/JunimoNote",
+      "FromFile": "LooseSprites/JunimoNote.de-DE.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+
+    {
+      "Action": "Load",
+      "Target": "Maps/coopTiles",
+      "FromFile": "Maps/coopTiles.de-DE.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+
+    {
+      "Action": "Load",
+      "Target": "Maps/townInterior",
+      "FromFile": "Maps/townInterior.de-DE.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+
+    {
+      "Action": "Load",
+      "Target": "Minigames/Intro",
+      "FromFile": "Minigames/Intro.de-DE.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Minigames/TitleButtons",
+      "FromFile": "Minigames/TitleButtons.de-DE.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Achievements",
+      "FromFile": "Data/Achievements.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/BigCraftablesInformation",
+      "FromFile": "Data/BigCraftablesInformation.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Blueprints",
+      "FromFile": "Data/Blueprints.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Boots",
+      "FromFile": "Data/Boots.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Bundles",
+      "FromFile": "Data/Bundles.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/ClothingInformation",
+      "FromFile": "Data/ClothingInformation.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Concessions",
+      "FromFile": "Data/Concessions.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/CookingRecipes",
+      "FromFile": "Data/CookingRecipes.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/CraftingRecipes",
+      "FromFile": "Data/CraftingRecipes.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/EngagementDialogue",
+      "FromFile": "Data/EngagementDialogue.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/ExtraDialogue",
+      "FromFile": "Data/ExtraDialogue.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/FarmAnimals",
+      "FromFile": "Data/FarmAnimals.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Fish",
+      "FromFile": "Data/Fish.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Furniture",
+      "FromFile": "Data/Furniture.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/hats",
+      "FromFile": "Data/hats.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/mail",
+      "FromFile": "Data/mail.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Monsters",
+      "FromFile": "Data/Monsters.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Movies",
+      "FromFile": "Data/Movies.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/MoviesReactions",
+      "FromFile": "Data/MoviesReactions.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/NPCDispositions",
+      "FromFile": "Data/NPCDispositions.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/NPCGiftTastes",
+      "FromFile": "Data/NPCGiftTastes.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/ObjectInformation",
+      "FromFile": "Data/ObjectInformation.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/PaintData",
+      "FromFile": "Data/PaintData.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Quests",
+      "FromFile": "Data/Quests.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/SecretNotes",
+      "FromFile": "Data/SecretNotes.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/weapons",
+      "FromFile": "Data/weapons.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/animationDescriptions",
+      "FromFile": "Strings/animationDescriptions.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Buildings",
+      "FromFile": "Strings/Buildings.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/BundleNames",
+      "FromFile": "Strings/BundleNames.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Characters",
+      "FromFile": "Strings/Characters.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/credits",
+      "FromFile": "Strings/credits.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/EnchantmentNames",
+      "FromFile": "Strings/EnchantmentNames.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Events",
+      "FromFile": "Strings/Events.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/FarmAnimals",
+      "FromFile": "Strings/FarmAnimals.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Lexicon",
+      "FromFile": "Strings/Lexicon.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Locations",
+      "FromFile": "Strings/Locations.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Notes",
+      "FromFile": "Strings/Notes.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/NPCNames",
+      "FromFile": "Strings/NPCNames.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Objects",
+      "FromFile": "Strings/Objects.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Quests",
+      "FromFile": "Strings/Quests.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/SpecialOrderStrings",
+      "FromFile": "Strings/SpecialOrderStrings.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/SpeechBubbles",
+      "FromFile": "Strings/SpeechBubbles.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/StringsFromCSFiles",
+      "FromFile": "Strings/StringsFromCSFiles.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/StringsFromMaps",
+      "FromFile": "Strings/StringsFromMaps.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/UI",
+      "FromFile": "Strings/UI.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Abigail",
+      "FromFile": "Characters/Dialogue/Abigail.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Alex",
+      "FromFile": "Characters/Dialogue/Alex.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Caroline",
+      "FromFile": "Characters/Dialogue/Caroline.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Clint",
+      "FromFile": "Characters/Dialogue/Clint.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Demetrius",
+      "FromFile": "Characters/Dialogue/Demetrius.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Dwarf",
+      "FromFile": "Characters/Dialogue/Dwarf.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Elliott",
+      "FromFile": "Characters/Dialogue/Elliott.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Emily",
+      "FromFile": "Characters/Dialogue/Emily.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Evelyn",
+      "FromFile": "Characters/Dialogue/Evelyn.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/George",
+      "FromFile": "Characters/Dialogue/George.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Gil",
+      "FromFile": "Characters/Dialogue/Gil.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Gus",
+      "FromFile": "Characters/Dialogue/Gus.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Haley",
+      "FromFile": "Characters/Dialogue/Haley.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Harvey",
+      "FromFile": "Characters/Dialogue/Harvey.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Jas",
+      "FromFile": "Characters/Dialogue/Jas.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Jodi",
+      "FromFile": "Characters/Dialogue/Jodi.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Kent",
+      "FromFile": "Characters/Dialogue/Kent.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Krobus",
+      "FromFile": "Characters/Dialogue/Krobus.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Leah",
+      "FromFile": "Characters/Dialogue/Leah.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Leo",
+      "FromFile": "Characters/Dialogue/Leo.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/LeoMainland",
+      "FromFile": "Characters/Dialogue/LeoMainland.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Lewis",
+      "FromFile": "Characters/Dialogue/Lewis.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Linus",
+      "FromFile": "Characters/Dialogue/Linus.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Marnie",
+      "FromFile": "Characters/Dialogue/Marnie.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogue",
+      "FromFile": "Characters/Dialogue/MarriageDialogue.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueAbigail",
+      "FromFile": "Characters/Dialogue/MarriageDialogueAbigail.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueAlex",
+      "FromFile": "Characters/Dialogue/MarriageDialogueAlex.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueElliott",
+      "FromFile": "Characters/Dialogue/MarriageDialogueElliott.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueEmily",
+      "FromFile": "Characters/Dialogue/MarriageDialogueEmily.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueHaley",
+      "FromFile": "Characters/Dialogue/MarriageDialogueHaley.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueHarvey",
+      "FromFile": "Characters/Dialogue/MarriageDialogueHarvey.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueKrobus",
+      "FromFile": "Characters/Dialogue/MarriageDialogueKrobus.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueLeah",
+      "FromFile": "Characters/Dialogue/MarriageDialogueLeah.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueMaru",
+      "FromFile": "Characters/Dialogue/MarriageDialogueMaru.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialoguePenny",
+      "FromFile": "Characters/Dialogue/MarriageDialoguePenny.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueSam",
+      "FromFile": "Characters/Dialogue/MarriageDialogueSam.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueSebastian",
+      "FromFile": "Characters/Dialogue/MarriageDialogueSebastian.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueShane",
+      "FromFile": "Characters/Dialogue/MarriageDialogueShane.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Maru",
+      "FromFile": "Characters/Dialogue/Maru.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Mister Qi",
+      "FromFile": "Characters/Dialogue/Mister Qi.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Pam",
+      "FromFile": "Characters/Dialogue/Pam.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Penny",
+      "FromFile": "Characters/Dialogue/Penny.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Pierre",
+      "FromFile": "Characters/Dialogue/Pierre.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/rainy",
+      "FromFile": "Characters/Dialogue/rainy.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Robin",
+      "FromFile": "Characters/Dialogue/Robin.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Sam",
+      "FromFile": "Characters/Dialogue/Sam.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Sandy",
+      "FromFile": "Characters/Dialogue/Sandy.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Sebastian",
+      "FromFile": "Characters/Dialogue/Sebastian.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Shane",
+      "FromFile": "Characters/Dialogue/Shane.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Vincent",
+      "FromFile": "Characters/Dialogue/Vincent.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Willy",
+      "FromFile": "Characters/Dialogue/Willy.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Wizard",
+      "FromFile": "Characters/Dialogue/Wizard.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/AbandonedJojaMart",
+      "FromFile": "Data/Events/AbandonedJojaMart.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/AnimalShop",
+      "FromFile": "Data/Events/AnimalShop.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/ArchaeologyHouse",
+      "FromFile": "Data/Events/ArchaeologyHouse.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Backwoods",
+      "FromFile": "Data/Events/Backwoods.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/BathHouse_Pool",
+      "FromFile": "Data/Events/BathHouse_Pool.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Beach",
+      "FromFile": "Data/Events/Beach.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/BoatTunnel",
+      "FromFile": "Data/Events/BoatTunnel.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/BusStop",
+      "FromFile": "Data/Events/BusStop.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/CommunityCenter",
+      "FromFile": "Data/Events/CommunityCenter.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/ElliottHouse",
+      "FromFile": "Data/Events/ElliottHouse.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Farm",
+      "FromFile": "Data/Events/Farm.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/FarmHouse",
+      "FromFile": "Data/Events/FarmHouse.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/FishShop",
+      "FromFile": "Data/Events/FishShop.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Forest",
+      "FromFile": "Data/Events/Forest.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/HaleyHouse",
+      "FromFile": "Data/Events/HaleyHouse.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/HarveyRoom",
+      "FromFile": "Data/Events/HarveyRoom.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Hospital",
+      "FromFile": "Data/Events/Hospital.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/IslandHut",
+      "FromFile": "Data/Events/IslandHut.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/IslandNorth",
+      "FromFile": "Data/Events/IslandNorth.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/IslandSouth",
+      "FromFile": "Data/Events/IslandSouth.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/IslandWest",
+      "FromFile": "Data/Events/IslandWest.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/JoshHouse",
+      "FromFile": "Data/Events/JoshHouse.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/LeahHouse",
+      "FromFile": "Data/Events/LeahHouse.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/ManorHouse",
+      "FromFile": "Data/Events/ManorHouse.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Mine",
+      "FromFile": "Data/Events/Mine.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Mountain",
+      "FromFile": "Data/Events/Mountain.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/QiNutRoom",
+      "FromFile": "Data/Events/QiNutRoom.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Railroad",
+      "FromFile": "Data/Events/Railroad.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Saloon",
+      "FromFile": "Data/Events/Saloon.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/SamHouse",
+      "FromFile": "Data/Events/SamHouse.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/SandyHouse",
+      "FromFile": "Data/Events/SandyHouse.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/ScienceHouse",
+      "FromFile": "Data/Events/ScienceHouse.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/SebastianRoom",
+      "FromFile": "Data/Events/SebastianRoom.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/SeedShop",
+      "FromFile": "Data/Events/SeedShop.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Sewer",
+      "FromFile": "Data/Events/Sewer.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Sunroom",
+      "FromFile": "Data/Events/Sunroom.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Temp",
+      "FromFile": "Data/Events/Temp.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Tent",
+      "FromFile": "Data/Events/Tent.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Town",
+      "FromFile": "Data/Events/Town.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Trailer",
+      "FromFile": "Data/Events/Trailer.de-DE.json",
+
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Trailer_Big",
+      "FromFile": "Data/Events/Trailer_Big.de-DE.json",
+            "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/WizardHouse",
+      "FromFile": "Data/Events/WizardHouse.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Woods",
+      "FromFile": "Data/Events/Woods.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Festivals/fall16",
+      "FromFile": "Data/Festivals/fall16.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Festivals/fall27",
+      "FromFile": "Data/Festivals/fall27.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Festivals/FestivalDates",
+      "FromFile": "Data/Festivals/FestivalDates.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Festivals/spring13",
+      "FromFile": "Data/Festivals/spring13.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Festivals/spring24",
+      "FromFile": "Data/Festivals/spring24.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Festivals/summer11",
+      "FromFile": "Data/Festivals/summer11.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Festivals/summer28",
+      "FromFile": "Data/Festivals/summer28.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Festivals/winter25",
+      "FromFile": "Data/Festivals/winter25.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/Festivals/winter8",
+      "FromFile": "Data/Festivals/winter8.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/TV/CookingChannel",
+      "FromFile": "Data/TV/CookingChannel.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/TV/InterviewShow",
+      "FromFile": "Data/TV/InterviewShow.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Data/TV/TipChannel",
+      "FromFile": "Data/TV/TipChannel.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Abigail",
+      "FromFile": "Strings/schedules/Abigail.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Alex",
+      "FromFile": "Strings/schedules/Alex.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Caroline",
+      "FromFile": "Strings/schedules/Caroline.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Clint",
+      "FromFile": "Strings/schedules/Clint.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Demetrius",
+      "FromFile": "Strings/schedules/Demetrius.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Elliott",
+      "FromFile": "Strings/schedules/Elliott.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Emily",
+      "FromFile": "Strings/schedules/Emily.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Evelyn",
+      "FromFile": "Strings/schedules/Evelyn.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/George",
+      "FromFile": "Strings/schedules/George.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Gus",
+      "FromFile": "Strings/schedules/Gus.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Haley",
+      "FromFile": "Strings/schedules/Haley.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Harvey",
+      "FromFile": "Strings/schedules/Harvey.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Jas",
+      "FromFile": "Strings/schedules/Jas.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Jodi",
+      "FromFile": "Strings/schedules/Jodi.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Leah",
+      "FromFile": "Strings/schedules/Leah.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Leo",
+      "FromFile": "Strings/schedules/Leo.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Lewis",
+      "FromFile": "Strings/schedules/Lewis.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Linus",
+      "FromFile": "Strings/schedules/Linus.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Marnie",
+      "FromFile": "Strings/schedules/Marnie.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Maru",
+      "FromFile": "Strings/schedules/Maru.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Pam",
+      "FromFile": "Strings/schedules/Pam.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Penny",
+      "FromFile": "Strings/schedules/Penny.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Pierre",
+      "FromFile": "Strings/schedules/Pierre.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Robin",
+      "FromFile": "Strings/schedules/Robin.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Sam",
+      "FromFile": "Strings/schedules/Sam.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Sandy",
+      "FromFile": "Strings/schedules/Sandy.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Sebastian",
+      "FromFile": "Strings/schedules/Sebastian.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Shane",
+      "FromFile": "Strings/schedules/Shane.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Vincent",
+      "FromFile": "Strings/schedules/Vincent.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/Willy",
+      "FromFile": "Strings/schedules/Willy.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    }
+  ]
+}

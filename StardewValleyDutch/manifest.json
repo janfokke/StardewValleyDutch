@@ -1,0 +1,11 @@
+{
+    "Name": "StardewValley Dutch",
+    "Author": "Spawk and JanFokke",
+    "Version": "1.0.0",
+    "Description": "A Dutch translation for StardewValley",
+    "UniqueID": "JanFokke.StardewValleyDutch",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+    }
+  }

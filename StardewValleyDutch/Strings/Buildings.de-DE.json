@@ -1,0 +1,17 @@
+{
+  "UnderConstruction": "In aanbouw.",
+  "DismountBeforeEntering": "Stap af voordat je naar binnen gaat",
+  "PiecesOfHay": "Stukken hooi: {0}/{1}",
+  "AddedHay": "{0} stukken hooi aan de silo toegevoegd.",
+  "MillFull": "Geen plaats meer",
+  "CantMill": "Kan niet gemalen worden",
+  "NeedSilo": "Vereist silo",
+  "CantEnter": "Kan nu niet naar binnen gaan",
+  "WrongFishType": "Je {0} will niet in een {1}vijver.",
+  "WrongFishTypeCoral": "{0} kan alleen in een {0}vijver geplaatst worden.",
+  "CantPutInPonds": "De {0} zou zich hier niet gelukkig in voelen.",
+  "NoFish": "In deze vijver kunnen vissen worden geplaatst.",
+  "PondFull": "De vijver is vol.",
+  "Paint_Region_Roof": "Dak",
+  "Paint_Region_Building": "Dak"
+}

@@ -1,29 +1,15 @@
-![stardewbackground](https://user-images.githubusercontent.com/17224428/57183745-abacb500-6eb1-11e9-95f0-bb878e2a1e24.png)
+![banner](https://user-images.githubusercontent.com/17224428/111884012-10e2f400-89bf-11eb-9d65-3b0d1e0a78e0.png)
+
 
 Deze repository bevat de Nederlanse vertaling voor Stardew Valley.
 
-Vertaald door: **JanFokke** en **Superteletubbies64**
+:warning: De mod is uitvoerig getest, maar er kunnen natuurlijk nog foutjes in zitten. Maak daarom een backup van je savegames voordat je deze mod gaat gebruiken. Mocht je een fout tegenkomen, stellen wij het zeer op prijs als je hier een issue voor aanmaakt.
 
-# Installatie
-
-## Installer (Alleen voor windows)
-1. Download de installer [hier](https://github.com/janfokke/StardewValleyDutch/releases)
-2. Voer de installatie uit en controleer of de uitpak locatie overeen komt met de StardewValley installatie locatie
-3. Start de game en verander de taal naar Duits
-
-## Handmatig
-1. Download de content bestanden [hier](https://github.com/janfokke/StardewValleyDutch/releases)
-2. Kopieer de bestanden naar Content folder van StardewValley
-3. Start de game en verander de taal naar Duits
-
-### Content folder locatie
-| Platform      | Locatie       |
-| ------------- |:------------- |
-| Windows|GOG: C:\Program Files (x86)\GOG Galaxy\Games\Stardew Valley\Content                                  |
-|        |Steam: C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Content                          |  
-| Linux  |GOG: ~/GOGGames/StardewValley/game/Content                                                           |
-|        |Steam: ~/.local/share/Steam/steamapps/common/Stardew Valley/Content                                  |
-| Mac    |GOG: /Applications/Stardew Valley.app/Resources/Content                                              |
-|        |Steam: ~/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/Resources/Content|
-
+![installation](https://user-images.githubusercontent.com/17224428/111884007-03c60500-89bf-11eb-8ac2-86153cf09e1b.png)
+1. [Installeer de laatste versie van SMAPI.](https://smapi.io/)
+2. [Download](https://github.com/janfokke/StardewValleyDutch/releases) deze mod en pak deze uit in Stardew Valley/Mods.
+3. Start het spel met SMAPI.
+   
+# Credits
+Vertaald door **Spawk** met ondersteuning van **JanFokke**
 

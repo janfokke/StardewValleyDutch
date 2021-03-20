@@ -1,0 +1,966 @@
+{
+  "spring_movie_0": {
+    "ID": null,
+    "SheetIndex": 0,
+    "Title": "Het dappere kleine boompje",
+    "Description": "Een geanimeerde familiekomedie over een twijgje op een magisch avontuur om een boom te worden! ",
+    "Tags": [
+      "family",
+      "comedy"
+    ],
+    "Scenes": [
+      {
+        "Image": 0,
+        "Music": "sweet",
+        "Sound": "",
+        "MessageDelay": 1000,
+        "Script": "",
+        "Text": "Het dappere kleine boompje",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "spring0_0"
+      },
+      {
+        "Image": 1,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Het dappere kleine boompje verlaat zijn huis. Hij aarzelt even en draait zich om, in de wetenschap dat hij voorlopig niet terug zal komen...",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "spring0_1"
+      },
+      {
+        "Image": 6,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/playSound dustMeep/pause 200/playSound dustMeep/pause 300/playSound dustMeep/pause 100/playSound dustMeep/pause 200/playSound dustMeep",
+        "Text": "De andere boompjes in zijn bos hebben zich aan de rand van het dorp verzameld om hem uit te zwaaien...!",
+        "Shake": false,
+        "ResponsePoint": "sprout_leave",
+        "ID": "spring0_2"
+      },
+      {
+        "Image": 2,
+        "Music": "rain",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Oh nee! Uit het niets begint het te regenen...! Het boompje begint te rennen terwijl donkere wolken zich samenpakken.",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "spring0_3"
+      },
+      {
+        "Image": 3,
+        "Music": "",
+        "Sound": "thunder",
+        "MessageDelay": 1000,
+        "Script": "",
+        "Text": "Uit angst voor zijn leven en vanwege de onophoudelijke stortbui begint het boompje zijn hoop te verliezen...",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "spring0_4"
+      },
+      {
+        "Image": 4,
+        "Music": "echos",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "...Maar wat is dat...? Het boompje voelt een tinteling op zijn hoofd...",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "spring0_5"
+      },
+      {
+        "Image": 5,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/playSound coin/pause 1000/message \"Misschien had hij wel een beetje regen nodig op zijn reis om een boom te worden!\"",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "spring0_6"
+      },
+      {
+        "Image": 7,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 2000,
+        "Script": "",
+        "Text": "Vaarwel, kleine vriend!",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "spring0_7"
+      }
+    ]
+  },
+  "fall_movie_0": {
+    "ID": null,
+    "SheetIndex": 1,
+    "Title": "Mysterium",
+    "Description": "Een glimps achter de sluier van de nacht... Je moet het zien om het te geloven!",
+    "Tags": [
+      "horror",
+      "art"
+    ],
+    "Scenes": [
+      {
+        "Image": 0,
+        "Music": "Lava_Ambient",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 4000",
+        "Text": "'Mysterium'",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "fall0_0"
+      },
+      {
+        "Image": 1,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 1500",
+        "Text": "Een vaag silhouet in de duisternis...",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "fall0_1"
+      },
+      {
+        "Image": -1,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/specificTemporarySprite movieFrame 1 2 1000/playSound batScreech",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "fall0_2"
+      },
+      {
+        "Image": 1,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "fall0_3"
+      },
+      {
+        "Image": 3,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "De troosteloze leegte van de ruimte... waar ongekende verschrikkingen wachten.",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "fall0_4"
+      },
+      {
+        "Image": 3,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/specificTemporarySprite movieFrame 1 4 400/playSound serpentHit/pause 2000/specificTemporarySprite movieFrame 1 4 150/playSound shadowHit/pause 300/specificTemporarySprite movieFrame 1 4 400/playSound serpentDie",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "fall0_5"
+      },
+      {
+        "Image": -1,
+        "Music": "spring_night_ambient",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieTheater_screen 1 6 false/pause 3000",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "fall0_6"
+      },
+      {
+        "Image": 7,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 3000",
+        "Text": "Onsamenhangende, buitenwereldse scènes spelen zich af...",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "fall0_7"
+      },
+      {
+        "Image": 8,
+        "Music": "spirits_eve",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/playSound skeletonDie/pause 6000",
+        "Text": "",
+        "Shake": true,
+        "ResponsePoint": null,
+        "ID": "fall0_8"
+      },
+      {
+        "Image": 9,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/playSound shadowpeep",
+        "Text": "\"Je MOET je vrienden vertellen dat ze naar MYSTERIUM moeten kijken...\"",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "fall0_9"
+      },
+      {
+        "Image": 9,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/playSound shadowDie",
+        "Text": "\"...Anders bezoek ik je in je slaap!\"",
+        "Shake": true,
+        "ResponsePoint": "mysterium_shadow",
+        "ID": "fall0_10"
+      }
+    ]
+  },
+  "summer_movie_0": {
+    "ID": null,
+    "SheetIndex": 2,
+    "Title": "Reis van de Prairiekoning: de film",
+    "Description": "Het geliefde computerspel komt naar het grote scherm!",
+    "Tags": [
+      "action"
+    ],
+    "Scenes": [
+      {
+        "Image": 0,
+        "Music": "Cowboy_OVERWORLD",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 4000",
+        "Text": "\"Reis van de Prairiekoning: de film\"",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "summer0_0"
+      },
+      {
+        "Image": 1,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Op het stoffige pad waakt de prairiekoning over een karavaan met waardevolle spullen.",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "summer0_1"
+      },
+      {
+        "Image": 2,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "De kwade bandiet kijkt echter toe vanaf een klif zonder dat onze held het weet...",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "summer0_2"
+      },
+      {
+        "Image": 3,
+        "Music": "cowboy_outlawsong",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "\"Eindelijk zal ik me ontdoen van die zelfingenomen sheriff en de schat stelen... Ik verdien hem!\"",
+        "Shake": false,
+        "ResponsePoint": "PK_villain",
+        "ID": "summer0_3"
+      },
+      {
+        "Image": 4,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 400/playSound thunder_small",
+        "Text": "\"Oh jee! Het lijkt erop dat deze lawine rechtstreeks op de karavaan afkomt.\"",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "summer0_4"
+      },
+      {
+        "Image": 5,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "De prairiekoning hoort een vaag gerommel in de verte... Kijk!",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "summer0_5"
+      },
+      {
+        "Image": 6,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 1000/message \"Instinctief vuurt hij een schot af.\"/pause 500/playSound cowboy_gunload/pause 500/playSound Cowboy_monsterDie/pause 500",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "summer0_6"
+      },
+      {
+        "Image": 7,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 200/playSound cowboy_explosion/pause 1000/message \"Wat gebeurt er? Er vliegt water in het rond!\"",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "summer0_7"
+      },
+      {
+        "Image": 8,
+        "Music": "none",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 500/playSound slimeHit/pause 400/playSound slimeHit/pause 400/playSound slimeHit/pause 400/playSound slimeHit/pause 400",
+        "Text": " Het is hem weer gelukt! De dikke modder houdt de steenlawine tegen.",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "summer0_8"
+      },
+      {
+        "Image": 1,
+        "Music": "",
+        "Sound": "Cowboy_Secret",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "De karavaan is gered.",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "summer0_9"
+      },
+      {
+        "Image": 9,
+        "Music": "Cowboy_singing",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Einde.",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "summer0_10"
+      }
+    ]
+  },
+  "summer_movie_1": {
+    "ID": null,
+    "SheetIndex": 3,
+    "Title": "Wumbus",
+    "Description": "Een absurde sci-fi komedie over het leven van een klonterige kerel van een andere planeet.",
+    "Tags": [
+      "sci-fi",
+      "comedy",
+      "family"
+    ],
+    "Scenes": [
+      {
+        "Image": 0,
+        "Music": "movie_wumbus",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "'Wumbus'",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "summer1_0"
+      },
+      {
+        "Image": 1,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "De altijd luie Wumbus rekt zich uit en geniet van de warme zon van zijn planeet.",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "summer1_1"
+      },
+      {
+        "Image": 2,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Zijn trouwe bediende, Voedselbot, voorziet hem non-stop van gefrituurde glutenrepen en \"rode saus\".",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "summer1_2"
+      },
+      {
+        "Image": 3,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Wumbus probeert zijn neef Rossel iets bij te brengen over de cultuur en aangelegenheden van het zonnestelsel, maar Rossel wil het niet horen.",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "summer1_3"
+      },
+      {
+        "Image": 7,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "'Tsss!'",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "summer1_4"
+      },
+      {
+        "Image": 4,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "De film is een humoristische kijk in de vreemde wereld van Wumbus, waar de technologie en maatschappij zich ver hebben 'ontwikkeld'.",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "summer1_5"
+      },
+      {
+        "Image": 5,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 800/playSound phone/pause 300",
+        "Text": "Veel scènes proberen humor te vinden in de absurditeit van de moderne levensstijl.",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "summer1_6"
+      },
+      {
+        "Image": 6,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Maar ondanks de bijna eindeloze amusementsmogelijkheden komen Wumbus en zijn vrienden nog steeds graag samen voor een stuk pizza (gemaakt van 100% gluten). ",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "summer1_7"
+      }
+    ]
+  },
+  "winter_movie_1": {
+    "ID": null,
+    "SheetIndex": 4,
+    "Title": "De Zuzu City Express",
+    "Description": "Een geliefde filmklassieker, zorgvuldig gerestaureerd voor het moderne publiek.",
+    "Tags": [
+      "classic",
+      "romance"
+    ],
+    "Scenes": [
+      {
+        "Image": 0,
+        "Music": "movie_classic",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "'De Zuzu City Express'",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "winter1_0"
+      },
+      {
+        "Image": 1,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 800/playSound trainWhistle/pause 300",
+        "Text": "De Zuzu City Express vertrekt van de ijzige kust voor zijn laatste reis naar het zuiden... een reis van drie dagen.",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "winter1_1"
+      },
+      {
+        "Image": 2,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Een jonge dame kijkt weemoedig uit het raam.",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "winter1_2"
+      },
+      {
+        "Image": 3,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 800/playSound doorCreak/pause 2000",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "winter1_3"
+      },
+      {
+        "Image": 4,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 2000",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": "guyEnters",
+        "ID": "winter1_4"
+      },
+      {
+        "Image": 5,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "De film verkent een tijdloos thema... het conflict tussen verstand en emotie.",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "winter1_5"
+      },
+      {
+        "Image": 6,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Zal ze haar verstand volgen of de verlangens van haar hart?",
+        "Shake": false,
+        "ResponsePoint": "zuzucityexpress_mind_heart",
+        "ID": "winter1_6"
+      },
+      {
+        "Image": 1,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "De film loopt af voordat we het te weten komen...",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "winter1_7"
+      }
+    ]
+  },
+  "winter_movie_0": {
+    "ID": null,
+    "SheetIndex": 5,
+    "Title": "Het Wonder op de Coldstar Ranch",
+    "Description": "Tegen alle verwachtingen in houdt een familie de winterstergedachte in stand...",
+    "Tags": [
+      "family",
+      "classic"
+    ],
+    "Scenes": [
+      {
+        "Image": 0,
+        "Music": "winter1",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "'Het Wonder op de Coldstar Ranch'",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "winter0_0"
+      },
+      {
+        "Image": 1,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Het is wintersteravond en het heeft al drie weken onophoudelijk gesneeuwd.",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "winter0_1"
+      },
+      {
+        "Image": 2,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": " De familie Coldstar is gestrand... naar de stad gaan is onmogelijk. Gelukkig hebben de koeien genoeg stro om te overleven.",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "winter0_2"
+      },
+      {
+        "Image": 2,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 200/playSound cow/pause 500",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "winter0_3"
+      },
+      {
+        "Image": 3,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "...Maar het gezin heeft geen eten meer.",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "winter0_4"
+      },
+      {
+        "Image": 3,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 500/playSound croak/pause 500",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "winter0_5"
+      },
+      {
+        "Image": 4,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Toch trotseert vader Coldstar de verraderlijke omstandigheden om de wintersterboom te halen.",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "winter0_6"
+      },
+      {
+        "Image": 4,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 300/playSound axe/pause 400/playSound axchop/pause 400/playSound axchop/pause 800/playSound treethud/pause 300",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "winter0_7"
+      },
+      {
+        "Image": 5,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Ondanks de honger versiert de familie toch de boom om het feest van de winterster te vieren.",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "winter0_8"
+      },
+      {
+        "Image": 6,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 1000",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "winter0_9"
+      },
+      {
+        "Image": 6,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Die nacht doet zich iets ongewoons voor...",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "winter0_10"
+      },
+      {
+        "Image": 7,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 1000/specificTemporarySprite coldstarMiracle/pause 500/playSound discoverMineral/pause 3000/message \"De volgende ochtend is moeder Coldstar verbaasd over het kosmisch fruit dat op de boom prijkt.\"/pause 500/message \"\"We dachten aan de winterster, en dus dacht de winterster aan ons!\"\"",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "winter0_11"
+      },
+      {
+        "Image": 8,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/specificTemporarySprite removeSprite 989",
+        "Text": "Ze deelden allemaal de sterrendruppel. Ondanks zijn kleine formaat was het de lekkerste en meest vullende maaltijd die ze ooit hadden gehad.",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "winter0_12"
+      },
+      {
+        "Image": 8,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "De familie is gered en hoop houdt stand. De winterster is zijn belofte wederom nagekomen...",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "winter0_13"
+      }
+    ]
+  },
+  "spring_movie_1": {
+    "ID": null,
+    "SheetIndex": 6,
+    "Title": "Wonderen der natuur: verkenning van onze bruisende wereld",
+    "Description": "Maak een tocht door de Ferngill-republiek, van de Vareneilanden tot aan Zuzu City. De wereld bruist van het leven!",
+    "Tags": [
+      "documentary",
+      "family"
+    ],
+    "Scenes": [
+      {
+        "Image": 0,
+        "Music": "movie_nature",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "'Wonderen der natuur: verkenning van onze bruisende wereld'",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "spring1_0"
+      },
+      {
+        "Image": 1,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "De Vareneilanden, een tropisch paradijs 130 km van de zuidkust. De eilanden zijn ontstaan door vulkanische activiteit en groeien nog steeds...",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "spring1_1"
+      },
+      {
+        "Image": 2,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Het warme klimaat van de zuidelijke oceaan leidt tot extreme biodiversiteit... het eiland barst van het leven!",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "spring1_2"
+      },
+      {
+        "Image": 3,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Nu gaan we naar het noorden, naar de drukte van Zuzu City. Een wereld van beton en staal, verlicht door de gloed van de stad.",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "spring1_3"
+      },
+      {
+        "Image": 4,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "De omstandigheden zijn er zwaar, maar toch is er genoeg leven te vinden...",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "spring1_4"
+      },
+      {
+        "Image": 5,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Ver in het westen, eenzaam in de uitgestrekte Juweelzee, ligt Prairie-eiland. Ondanks de naam kent dit eiland veel verschillende biomen.",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "spring1_5"
+      },
+      {
+        "Image": 6,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Het eiland staat bekend om zijn enorme wasbeerpopulatie!",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "spring1_6"
+      },
+      {
+        "Image": 7,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Tenslotte keren we terug naar het vasteland voor een bezoek aan een van de aangenaamste plekken van het continent... Stardew Valley.",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "spring1_7"
+      },
+      {
+        "Image": 8,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "Het aangename klimaat zorgt voor de perfecte leefomgeving voor veel bosdieren en insecten. Wat een prachtige plek!",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "spring1_8"
+      }
+    ]
+  },
+  "fall_movie_1": {
+    "ID": null,
+    "SheetIndex": 7,
+    "Title": "Het jankt in de regen",
+    "Description": "Een groep tieners gaat op zoek naar de bron van een mysterieus geluid. (Alleen onder begeleiding van een volwassene)",
+    "Tags": [
+      "horror"
+    ],
+    "Scenes": [
+      {
+        "Image": 0,
+        "Music": "Upper_Ambient",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 1000/playSound cavedrip/pause 1000/playSound cavedrip/spriteText 7 \"Het jankt in de regen\"",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "fall1_0"
+      },
+      {
+        "Image": 1,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "",
+        "Text": "\"De volgende beelden zijn gevonden in een videocamera 50 km ten zuiden van Grampleton.\"",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "fall1_1"
+      },
+      {
+        "Image": 2,
+        "Music": "rain",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/pause 2000/playSound rainsound/pause 1000",
+        "Text": "\"Hoorden jullie dat? Volgens mij kwam het vanuit dat bos... Laten we kijken...\"",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "fall1_2"
+      },
+      {
+        "Image": 3,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 1000/message \"'(gehijg)... Kijk!'\"/playSound leafrustle/specificTemporarySprite woodswalker/pause 1000/playSound rainsound/pause 5000",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "fall1_3"
+      },
+      {
+        "Image": 4,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 500/playSound leafrustle/pause 500/playSound leafrustle/pause 400/playSound leafrustle/pause 500/playSound rainsound",
+        "Text": "(De camera beweegt trillend het bos in)",
+        "Shake": true,
+        "ResponsePoint": null,
+        "ID": "fall1_4"
+      },
+      {
+        "Image": 4,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/specificTemporarySprite movieFrame 7 5 1700/playSound batScreech/spriteText 4 \"Aah! \"/pause 20",
+        "Text": "\"Oh, jij bent het maar, Gary... *hijg* *hijg*... Hou op met mijn arm vast te pakken!\"",
+        "Shake": true,
+        "ResponsePoint": "",
+        "ID": "fall1_5"
+      },
+      {
+        "Image": 6,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/specificTemporarySprite movieBush/pause 2000/specificTemporarySprite shakeBush/playSound leafrustle/pause 700/specificTemporarySprite shakeBushStop/pause 900/specificTemporarySprite shakeBush/playSound leafrustle/pause 700/specificTemporarySprite shakeBushStop/pause 900/message \"'Kijk! Het zit in die struik!'\"/pause 2000",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "fall1_6"
+      },
+      {
+        "Image": 6,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/specificTemporarySprite shakeBush/playSound leafrustle/specificTemporarySprite evilRabbit/playSound dustMeep/specificTemporarySprite shakeBushStop/spriteText 4 \"Aaah! \"/pause 500/spriteText 4 \"Oh... \"/pause 500/playSound rainsound/specificTemporarySprite movieFrame 7 7 500/specificTemporarySprite removeSprite 777/specificTemporarySprite removeSprite 778",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "fall1_7"
+      },
+      {
+        "Image": 7,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50",
+        "Text": "(Gedempt geschreeuw en een vreemd geschuifel is hoorbaar)",
+        "Shake": false,
+        "ResponsePoint": null,
+        "ID": "fall1_8"
+      },
+      {
+        "Image": 4,
+        "Music": "",
+        "Sound": "",
+        "MessageDelay": 500,
+        "Script": "/pause 1000/playSound rainsound/pause 1000/spriteText 4 \"Het is daar nog...\"",
+        "Text": "",
+        "Shake": false,
+        "ResponsePoint": "",
+        "ID": "fall1_9"
+      }
+    ]
+  }
+}

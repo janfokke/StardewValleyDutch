@@ -1,0 +1,18 @@
+{
+  "TryingToSleep": "{0} probeert te slapen",
+  "MoodMessage_NewHome_Baby_Male": "{0} is nog wat onhandig na zijn geboorte. Hij is nieuwsgierig naar de wereld om hem heen.",
+  "MoodMessage_NewHome_Baby_Female": "{0} is nog wat onhandig na haar geboorte. Ze is nieuwsgierig naar de wereld om haar heen.",
+  "MoodMessage_NewHome_Adult_Male_1": "{0} lijkt nieuwsgierig, maar ook voorzichtig. Hij went nog aan zijn nieuwe huis.",
+  "MoodMessage_NewHome_Adult_Male_2": "{0} lijkt nieuwsgierig, maar ook voorzichtig. Het is een vreemde nieuwe wereld.",
+  "MoodMessage_NewHome_Adult_Female_1": "{0} lijkt nieuwsgierig, maar ook voorzichtig. Ze went nog aan haar nieuwe huis.",
+  "MoodMessage_NewHome_Adult_Female_2": "{0} lijkt nieuwsgierig, maar ook voorzichtig. Het is een vreemde nieuwe wereld.",
+  "MoodMessage_LeftOutsideAtNight_Male": "{0} was vannacht buitengesloten... hij is wat knorrig.",
+  "MoodMessage_LeftOutsideAtNight_Female": "{0} was vannacht buitengesloten... ze is wat knorrig.",
+  "MoodMessage_DisturbedByDog_Male": "{0} ziet er schichtig uit. Het lijkt erop dat er vannacht iets ergs is gebeurd.",
+  "MoodMessage_DisturbedByDog_Female": "{0} ziet er schichtig uit. Het lijkt erop dat er vannacht iets ergs is gebeurd.",
+  "MoodMessage_Hungry1": "{0} ziet er knorrig uit.",
+  "MoodMessage_Hungry2": "{0} ziet er een beetje mager uit.",
+  "MoodMessage_Sad": "{0} ziet er verdrietig uit.",
+  "MoodMessage_Fine": "{0} ziet er tevreden uit.",
+  "MoodMessage_Happy": "{0} ziet er vandaag heel tevreden uit!"
+}
