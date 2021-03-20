@@ -14,5 +14,5 @@ Deze repository bevat de Nederlanse vertaling voor Stardew Valley.
 3. Start het spel met SMAPI.
    
 # Credits
-Vertaald door **Spawk** met ondersteuning van **JanFokke**
+Vertaald door **Spawk** met technische ondersteuning van **JanFokke**
 
