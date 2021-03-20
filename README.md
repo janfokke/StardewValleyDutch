@@ -7,8 +7,7 @@ Deze repository bevat de Nederlandse vertaling voor Stardew Valley.
 
 
 
-
-![installation](https://user-images.githubusercontent.com/17224428/111884007-03c60500-89bf-11eb-8ac2-86153cf09e1b.png)
+![Installation](https://user-images.githubusercontent.com/17224428/111886773-a2a72d00-89d0-11eb-82f1-745288638640.png)
 1. [Installeer de laatste versie van SMAPI.](https://smapi.io/)
 2. [Download](https://github.com/janfokke/StardewValleyDutch/releases) deze mod en pak deze uit in Stardew Valley/Mods.
 3. Start het spel met SMAPI.
