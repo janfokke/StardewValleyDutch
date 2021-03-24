@@ -37,7 +37,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/playSound dustMeep/pause 200/playSound dustMeep/pause 300/playSound dustMeep/pause 100/playSound dustMeep/pause 200/playSound dustMeep",
-        "Text": "De andere boompjes in zijn bos hebben zich aan de rand van het dorp verzameld om hem uit te zwaaien...!",
+        "Text": "De andere boompjes in zijn bos hebben zich aan de rand van het dorp verzameld om hem uit te zwaaien!",
         "Shake": false,
         "ResponsePoint": "sprout_leave",
         "ID": "spring0_2"
@@ -192,7 +192,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/pause 3000",
-        "Text": "Onsamenhangende, buitenwereldse scènes spelen zich af...",
+        "Text": "Onsamenhangende, onwerkelijke scènes spelen zich af...",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "fall0_7"

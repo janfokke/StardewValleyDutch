@@ -13,6 +13,143 @@
       "Action": "Load",
       "Target": "LooseSprites/ControllerMaps",
       "FromFile": "LooseSprites/ControllerMaps.de-DE.png",
+
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "LooseSprites/CraneGame",
+      "FromFile": "LooseSprites/CraneGame.de-DE.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/bathhouse_tiles",
+      "FromFile": "Maps/bathhouse_tiles.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/DesertTiles",
+      "FromFile": "Maps/DesertTiles.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/fall_beach",
+      "FromFile": "Maps/fall_beach.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/fall_outdoorsTileSheet",
+      "FromFile": "Maps/fall_outdoorsTileSheet.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/fall_town",
+      "FromFile": "Maps/fall_town.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/Festivals",
+      "FromFile": "Maps/Festivals.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/spring_beach",
+      "FromFile": "Maps/spring_beach.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/spring_outdoorsTileSheet",
+      "FromFile": "Maps/spring_outdoorsTileSheet.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/spring_town",
+      "FromFile": "Maps/spring_town.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/summer_beach",
+      "FromFile": "Maps/summer_beach.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/summer_outdoorsTileSheet",
+      "FromFile": "Maps/summer_outdoorsTileSheet.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/summer_town",
+      "FromFile": "Maps/summer_town.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/winter_beach",
+      "FromFile": "Maps/winter_beach.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/winter_outdoorsTileSheet",
+      "FromFile": "Maps/winter_outdoorsTileSheet.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/winter_town",
+      "FromFile": "Maps/winter_town.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/MovieTheaterJoja_TileSheet_international",
+      "FromFile": "Maps/MovieTheaterJoja_TileSheet_international.png",
       "When": {
         "Language": "de"
       }
@@ -54,7 +191,7 @@
     {
       "Action": "Load",
       "Target": "Maps/townInterior",
-      "FromFile": "Maps/townInterior.de-DE.png",
+      "FromFile": "Maps/townInterior.png",
       "When": {
         "Language": "de"
       }

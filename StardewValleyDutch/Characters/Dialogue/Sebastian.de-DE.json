@@ -31,7 +31,7 @@
   "Fri2": "*Zucht*...Als benzine niet zo duur was, zou ik vandaag op mijn motor naar de stad rijden.#$e#$q 15/16 Fri_old#Wat doe jij zoal naast je werk?#$r 15 0 Fri_bad#Alsnog werken.#$r 16 30 Fri_good#Stripboeken lezen#$r 15 -30 Fri_bad#Inkopen doen#$r 15 -30 Fri_bad#Sporten",
   "Fri_old": "$p 16#Hé, als je je verveelt mag je best in mijn kamer rondhangen...$h|Jij geeft waarschijnlijk de voorkeur aan het dorpsleven, hè?",
   "Fri_good": "Ja? Heb je de nieuwe 'Grottensaga X' gelezen? Ik zal niks verklappen, maar wauw...$h",
-  "Fri_bad": "Ja? Hmm... dat is aan mij niet besteed. Maar ieder zijn ding.$u",
+  "Fri_bad": "Ja? Hmm... dat is niet aan mij besteed. Maar ieder zijn ding.$u",
   "Sat": "Wat? Ik verstond je niet...ik ben ergens over aan het nadenken.#$e#Wat wil je?",
   "Sat2": "Ik moet echt iets productiefs doen. Mijn aandacht verslapt alleen te snel...$s#$b#Misschien moet ik meer koffie drinken.",
   "Sun": "Hé. Je heet @, toch?",
