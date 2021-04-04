@@ -503,7 +503,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "",
-        "Text": "Een jonge dame kijkt weemoedig uit het raam.",
+        "Text": "Een jongedame kijkt weemoedig uit het venster.",
         "Shake": false,
         "ResponsePoint": "",
         "ID": "winter1_2"
@@ -845,7 +845,7 @@
   "fall_movie_1": {
     "ID": null,
     "SheetIndex": 7,
-    "Title": "Het jankt in de regen",
+    "Title": "Gejank in de regen",
     "Description": "Een groep tieners gaat op zoek naar de bron van een mysterieus geluid. (Alleen onder begeleiding van een volwassene)",
     "Tags": [
       "horror"
@@ -856,7 +856,7 @@
         "Music": "Upper_Ambient",
         "Sound": "",
         "MessageDelay": 500,
-        "Script": "/pause 1000/playSound cavedrip/pause 1000/playSound cavedrip/spriteText 7 \"Het jankt in de regen\"",
+        "Script": "/pause 1000/playSound cavedrip/pause 1000/playSound cavedrip/spriteText 7 \"Gejank in de regen.\"",
         "Text": "",
         "Shake": false,
         "ResponsePoint": null,
@@ -879,7 +879,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/pause 2000/playSound rainsound/pause 1000",
-        "Text": "\"Hoorden jullie dat? Volgens mij kwam het vanuit dat bos... Laten we kijken...\"",
+        "Text": "\"Hoorden jullie dat? Volgens mij kwam het vanuit dat bos... Laten we gaan kijken...\"",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "fall1_2"
@@ -945,7 +945,7 @@
         "Sound": "",
         "MessageDelay": 500,
         "Script": "/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50/specificTemporarySprite movieFrame 7 7 80/pause 50/specificTemporarySprite movieFrame 7 8 80/pause 50/specificTemporarySprite movieFrame 7 9 80/pause 50",
-        "Text": "(Gedempt geschreeuw en een vreemd geschuifel is hoorbaar)",
+        "Text": "(Gedempt geschreeuw en een vreemd geschuifel zijn hoorbaar)",
         "Shake": false,
         "ResponsePoint": null,
         "ID": "fall1_8"
@@ -955,7 +955,7 @@
         "Music": "",
         "Sound": "",
         "MessageDelay": 500,
-        "Script": "/pause 1000/playSound rainsound/pause 1000/spriteText 4 \"Het is daar nog...\"",
+        "Script": "/pause 1000/playSound rainsound/pause 1000/spriteText 4 \"Het is daar nog....\"",
         "Text": "",
         "Shake": false,
         "ResponsePoint": "",

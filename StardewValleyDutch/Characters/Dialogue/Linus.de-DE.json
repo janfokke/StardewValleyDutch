@@ -8,7 +8,7 @@
   "Wed": "Ik ken je niet goed genoeg om je te vertrouwen. Sorry.",
   "Thu": "...Hmm? Wil je iets van me?",
   "Fri": "Verniel mijn tent alsjeblieft niet.#$e#Het is al eens eerder gebeurd.$s",
-  "Sat": "Ik ben gelukkig in mijjn eentje.#$e#Ik heb geen nieuwe vrienden nodig.",
+  "Sat": "Ik ben gelukkig in mijn eentje.#$e#Ik heb geen nieuwe vrienden nodig.",
   "Sun4": "Het zou fijn zijn als de dorpsbewoners me accepteerden zoals ik ben...$s#$b#Ik woon graag in de natuur. Dat begrijpen ze niet.",
   "Tue4": "Je kunt leren in de natuur te overleven. Ik heb het ook gedaan.#$e#We hebben allemaal een verborgen verlangen om terug te keren naar de natuur. Het is alleen eng om de eerste stap te zetten.",
   "Wed6": "Ik heb tijd om veel na te denken.#$e#Als je de drijfveren achter je gedachten begrijpt, bereik je een hoger niveau van bewustzijn.",
@@ -25,7 +25,7 @@
   "summer_Fri4": "Als je een vis vangt, bedank hem dan voor zijn opoffering.#$b#Het is een goede oefening voor de geest, zelfs als je niet in de ziel van de vis gelooft. We moeten ons bewust zijn van onze invloed op de natuur.",
   "summer_Sat4": "Je kunt nu regenboogforel vinden in rivieren.",
   "summer_Sun": "Dit is een makkelijkere tijd van het jaar voor me. Ik hoef me geen zorgen te maken over de kou.#$e#En er groeien overal wilde vruchten.",
-  "fall_Mon": "Ik ben diep in de grotten op verkenning geweest.#$e#Er zijn daar veel geheimen te vinden.#$e#Pas wel op als je er gaat kijken.",
+  "fall_Mon": "Ik ben diep in de grotten op verkenning geweest.#$e#Er zijn daar veel geheimen te ontdekken.#$e#Pas wel op als je er gaat kijken.",
   "fall_Tue4": "#$1 LinusFall1#Een of andere grapjas heeft vannacht verf op mijn tent gespoten... het kostte me uren om het eraf te krijgen.$k#$e#Het is tijd om hout te gaan verzamelen voor de winter.#$e#Heb jij genoeg hout om warm te blijven?",
   "fall_Wed4": "Ik heb niet veel verantwoordelijkheden, dus ik breng mijn tijd door met denken.#$e#Je moet je gedachten begrijpen voor je ze kunt beheersen.",
   "fall_Sun": "Ik blijf niet graag lang op dezelfde plek.",
@@ -35,6 +35,6 @@
   "winter_Wed4": "Je begrijpt vast wel waarom ik op mijn hoede ben voor vreemden.#$e#Maar dat kunnen we achter ons laten. Ik denk dat we inmiddels wel vrienden zijn.",
   "winter_Thu4": "Het is zwaar in de winter, maar je kunt nog steeds vissen en foerageren om te overleven.#$e#Als je dieren hebt, moet je ze binnen zetten.",
   "winter_Fri4": "De bomen slapen in de winter. Dat maakt het wat hierbuiten wat eenzamer.#$e#Maar ik gun ze hun schoonheidsslaapje.$h",
-  "winter_Sat4": "Bedankt voor het langskomen. Ik was wat eenzaam vanochtend.#$e#Heb je nog iets interessants ontdekt in de mijnen?",
+  "winter_Sat4": "Bedankt dat je langskomt. Ik was wat eenzaam vanochtend.#$e#Heb je nog iets interessants ontdekt in de mijnen?",
   "winter_Sun": "Op de grond slapen is goed voor mijn rug.#$e#Het is belangrijk om je op de positieve dingen in het leven te concentreren.$h"
 }

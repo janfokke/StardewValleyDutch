@@ -15,8 +15,8 @@
   "Thu": "Dus jij bent een boer? Interessant.#$c .5#Ik heb nog nooit een boer ontmoet.$k#$e#Misschien kun je me ooit laten zien hoe je groenten verbouwt.$h",
   "Fri": "$d Joja#Het eten van JojaMarkt is niet het gezondst, maar met die spotprijzen zou je gek zijn als je het ergens anders koopt!|Het eten van Pierres winkel is veel verser en gezonder dan dat van de JojaMarkt. Ik mis alleen de prijzen van de JojaMarkt.",
   "Sat": "Hoi.#$e#Heb je iets nodig?",
-  "Sat4": "Ik ben blij dat je die oude boerderij aan het opknappen bent.#$e#Zodra je alles op orde hebt, zal het een hoop aan onze gemeenschap bijdragen!$h#$e#Maar het zal veel werk voor je zijn.#$e#Dag.",
-  "Mon2": "$d kent#Gisteren ben ik naar het altaar van Yoba gegaan om dank te geven dat mijn man veilig is thuisgekomen.|Gisteren ben ik naar het altaar van Yoba gegaan om te bidden dat mijn man veilig thuiskomt.#$e#Ik probeer positief te blijven, maar soms is het moeilijk.$s",
+  "Sat4": "Ik ben blij dat je die oude boerderij aan het opknappen bent.#$e#Zodra alles klaar is zal hij een hoop bijdragen aan onze gemeenschap!$h#$e#Maar het zal wel veel werk voor je zijn.#$e#Dag.",
+  "Mon2": "$d kent#Ik ben gisteren naar het altaar van Yoba gegaan om dank te geven dat mijn man veilig is thuisgekomen.|Ik ben gisteren naar het altaar van Yoba gegaan om te bidden dat mijn man veilig thuiskomt.#$e#Ik probeer positief te blijven, maar soms is het moeilijk.$s",
   "Sun": "#$c .5#Vandaag doe ik even geen werk in huis.$h#$e#Ik neem een dagje vrij.$h#$e#Als ik niet soms buiten de deur kom, word ik gek!#$e#En het is fijn om mijn benen even te strekken.",
   "Sun8": "Ik heb gedroomd dat ik helemaal vrij was... geen verplichtingen aan wie dan ook.#$b#...Toen werd ik wakker en besefte ik me dat ik een hele dag huishoudelijk werk voor de boeg had...$s#$e# Maar ik heb geen spijt dat ik een gezin heb, @... Sam en Vincent zijn alles voor me.",
   "summer_Mon": "De zomer is fijn, maar het betekent ook meer werk.#$e#Ik moet naast het huishouden ook nog de tuin doen!",
@@ -37,5 +37,5 @@
   "winter_Thu_inlaw_Sam": "Hoe gaat het met Sam? Ik moet bekennen dat ik minder hoef te koken en schoonmaken sinds hij uit huis is...",
   "winter_Thu8": "Kent en ik zijn wat overhaast getrouwd omdat hij een soldaat was... ik heb nauwelijks van mijn jeugd en vrijheid kunnen genieten.$s#$e#Ik kan niet geloven dat ik je dit vertel.$4",
   "winter_Fri": "Het zou fijn zijn om eens vakantie te kunnen nemen...$s",
-  "winter_Sun": "Als ik rijk was, zou ik meteen een huishoudster en een kok inhuren.#$e#Mijn hemel, dat zou fijn zijn!$h"
+  "winter_Sun": "Als ik rijk was, zou ik meteen een huishoudster en een kok inhuren.#$e#Mijn hemel, wat zou dat fijn zijn!$h"
 }

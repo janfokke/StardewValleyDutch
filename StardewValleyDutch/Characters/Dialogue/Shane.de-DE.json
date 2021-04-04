@@ -7,14 +7,14 @@
   "Resort_Bar": "Pfoe... een koud drankje doet goed... #$e#Of misschien wel een paar...",
   "Resort": "Oké, dit zand is gloeiend heet. Ik heb er spijt van dat ik geen schoenen aanheb.$s",
   "danceRejection": "...Nee.$s",
-  "pamHouseUpgrade": "Ik heb gehoord dat je Pam een huis hebt gebouwd... Dat is heel gul van je...#$b#Ik kan ook wel honderdduizend goud gebruiken...#$e#*Ahem* ...Uh... dat was maar een grapje... Hehe.",
+  "pamHouseUpgrade": "Ik heb gehoord dat je Pam een huis hebt gekocht... Dat is heel gul van je...#$b#Ik kan ook wel honderdduizend goud gebruiken...#$e#*Ahem* ...Uh... dat was maar een grapje... Hehe.",
   "pamHouseUpgradeAnonymous": "Ik heb gehoord dat iemand Pam een huis heeft gekocht... *zucht* ...Waar heeft pam zoveel vrijgevigheid aan te danken?",
   "divorced": "...$a#$e#...Laat me met rust.$a",
   "breakUp": "*slik* Oh... ja, oké... Dat had ik wel aan kunnen zien komen. $s#$b#Ik... uh... ik zie je misschien nog wel in de saloon.",
   "dumped_Guys": "%Shane kijkt langs je heen. Hij wil niet met je praten.",
   "secondChance_Guys": "Ik begrijp jou niet... *zucht* ...",
   "Mon2": "Ik ken je nauwelijks. Waarom praat je tegen me?",
-  "Mon4": "Hé. Sorry als ik onbeschoft was toen we elkaar net kenden.#$e#Het duurt even voor ik aan vreemden gewend ben.",
+  "Mon4": "Hé. Sorry als ik onbeschoft was toen we elkaar net kenden.#$e#Het duurt even voor ik aan anderen gewend ben.",
   "Mon10": "Heb je ooit het gevoel dat de hele wereld je bekijkt alsof je een smerig insect bent?",
   "Tue": "Wat? Wat wil je? Ga weg.",
   "Tue2": "Wat wil je van me? Geld? Ik zou je een pot goud geven als je me met rust liet!",
@@ -38,7 +38,7 @@
   "Sun": "Zie je niet dat ik bezig ben?",
   "Sun6": "...Volgens mij ben ik dikker aan het worden.$s",
   "Sun8": "Als ik meer tv kijk, vergeet ik mijn leven misschien. Dat zou fijn zijn.$u",
-  "Sun10": "Hoi, @. Ik heb eerlijk gezegd best een goede dag vandaag.$h",
+  "Sun10": "Hoi, @. Ik heb best een goede dag vandaag.$h",
   "Sun4": "Hmm... ik heb honger. Zal ik een diepvriespizza in de magnetron gooien of nog even wachten?$u",
   "Sun2": "Jij weer? Hoe vaak moet ik je nog zeggen dat je me met rust moet laten?$s",
   "event_room1": "Oké... daar heb je een goed script voor nodig. Misschien vraag ik Elliott eens om raad als ik hem weer in de saloon zie.$s",
@@ -50,5 +50,5 @@
   "event_apologize2": "Ik weet het... daarom ben ik langsgekomen om het jou te vertellen.",
   "event_apologize3": "Wauw, was het zo ernstig? Ik kan me het nauwelijks nog herinneren...",
   "event_stadium1": "Ja? Dat is ook wel begrijpelijk.$6#$b#Ik verveel me soms in Pelican Town.#$b#Maar... ik vind het leuk dat jij anders bent. We houden elkaar in balans.$l",
-  "event_stadium2": "Oh, echt? Dat verbaast me... Kwam je niet naar Pelican Town om aan de drukte van de stad te ontsnappen?$6#$b#Begrijp me niet verkeerd, ik snap het volledig. Mijn leven in Pelican Town is ook eentonig."
+  "event_stadium2": "Oh, echt? Dat verbaast me... Kwam je niet naar Pelican Town om de drukte van de stad te ontvluchten?$6#$b#Begrijp me niet verkeerd, ik snap het volledig. Mijn leven in Pelican Town is ook saai."
 }

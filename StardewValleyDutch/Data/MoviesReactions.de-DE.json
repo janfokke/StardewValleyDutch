@@ -326,7 +326,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Voor degenen die bekend zijn met de esoterische mysteries had dit een diepe betekenis..."
+            "Text": "Voor zij die bekend zijn met de esoterische mysteries had dit een diepe betekenis..."
           }
         },
         "ID": "reaction_1"
@@ -403,7 +403,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hmpf... Bioscopen zijn niet meer wat ze geweest zijn... maar de film is misschien goed."
+            "Text": "Hmpf... Bioscopen zijn niet meer wat ze geweest zijn... maar misschien is de film goed."
           },
           "DuringMovie": null,
           "AfterMovie": {
@@ -741,7 +741,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Dat was erg cliché, maar daar hou ik van.$h"
+            "Text": "Dat was erg cliché, maar daar hou ik juist van.$h"
           }
         },
         "ID": "reaction_4"
@@ -815,7 +815,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ik heb altijd van films over het wilde westen gehouden, dus ik ben benieuwd naar de film!"
+            "Text": "Ik heb altijd van films over het wilde westen gehouden, dus ik ben benieuwd naar deze film!"
           },
           "DuringMovie": null,
           "AfterMovie": {
@@ -839,7 +839,7 @@
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ik hoop dat het arme kereltje het redt...$s"
+            "Text": "Ik hoop dat hij het redt...$s"
           },
           "AfterMovie": {
             "ResponsePoint": null,
@@ -967,13 +967,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Ik kijk niet veel films, maar deze krijgt goede recensies, toch?"
+            "Text": "Ik kijk niet veel films, maar deze krijgt lovende recensies, toch?"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Dat was interessant! Ik zal nog een tijdje over {0} nadenken."
+            "Text": "Dat was interessant! Ik zal nog een tijdje over deze film nadenken."
           }
         },
         "ID": "reaction_5"
@@ -1214,7 +1214,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Dat was prachtig... het thema van de film sprak me echt aan. Dank je dat je me hebt meegevraagd!"
+            "Text": "Dat was prachtig... het thema van de film sprak me echt aan. Bedankt dat je me hebt meegevraagd!"
           }
         },
         "ID": "reaction_1"
@@ -1507,12 +1507,12 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Wordt het een mannenavondje? Moet ik dan mijn eigen versnaperingen kopen?^Oh.. I... is dit dan een date?$4"
+            "Text": "Wordt het een mannenavondje? Moet ik dan mijn eigen versnaperingen kopen?^Oh... I... is dit een date?$4"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "/message \"Clint neemt slokjes uit een heupfles.\"",
-            "Text": "Het is maar... *hik*... Joja cola.$h^*fluister*... Als je, uh... moe wordt... kun je je hoofd... op mijn schouder leggen. Heh... of niet natuurlijk!$4"
+            "Text": "Het is maar... *hik*... Joja cola.$h^*fluister*... Als je, uh... moe wordt... kun je je hoofd... op mijn schouder leggen. Heh... of niet, natuurlijk!$4"
           },
           "AfterMovie": {
             "ResponsePoint": null,
@@ -1846,7 +1846,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hm... de poster zag er goed uit, dus ik ga wel mee."
+            "Text": "Hm... de poster zag er goed uit, dus ik ben benieuwd."
           },
           "DuringMovie": null,
           "AfterMovie": {
