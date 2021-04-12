@@ -196,7 +196,15 @@
         "Language": "de"
       }
     },
-
+    
+    {
+      "Action": "Load",
+      "Target": "Minigames/jojacorps",
+      "FromFile": "Minigames/jojacorps.png",
+      "When": {
+        "Language": "de"
+      }
+    },
     {
       "Action": "Load",
       "Target": "Minigames/Intro",
