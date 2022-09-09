@@ -1,5 +1,5 @@
 {
-  "Format": "1.21.0",
+  "Format": "1.19.0",
   "Changes": [
     {
       "Action": "Load",
@@ -1677,6 +1677,14 @@
       "When": {
         "Language": "de"
       }
-    }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/schedules/spring/Penny",
+      "FromFile": "Strings/schedules/spring/Penny.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    }        
   ]
 }
