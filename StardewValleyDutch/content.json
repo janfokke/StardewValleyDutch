@@ -13,7 +13,6 @@
       "Action": "Load",
       "Target": "LooseSprites/ControllerMaps",
       "FromFile": "LooseSprites/ControllerMaps.de-DE.png",
-
       "When": {
         "Language": "de"
       }
@@ -170,7 +169,6 @@
         "Language": "de"
       }
     },
-
     {
       "Action": "Load",
       "Target": "Maps/coopTiles",
@@ -179,7 +177,6 @@
         "Language": "de"
       }
     },
-
     {
       "Action": "Load",
       "Target": "Maps/townInterior",
@@ -188,7 +185,6 @@
         "Language": "de"
       }
     },
-    
     {
       "Action": "Load",
       "Target": "Minigames/jojacorps",
@@ -965,7 +961,7 @@
         "Language": "de"
       }
     },
-	{
+    {
       "Action": "Load",
       "Target": "Data/Events/DesertFestival",
       "FromFile": "Data/Events/DesertFestival.de-DE.json",
@@ -1217,7 +1213,6 @@
       "Action": "Load",
       "Target": "Data/Events/Trailer",
       "FromFile": "Data/Events/Trailer.de-DE.json",
-
       "When": {
         "Language": "de"
       }
@@ -1226,7 +1221,7 @@
       "Action": "Load",
       "Target": "Data/Events/Trailer_Big",
       "FromFile": "Data/Events/Trailer_Big.de-DE.json",
-            "When": {
+      "When": {
         "Language": "de"
       }
     },
@@ -1334,7 +1329,7 @@
         "Language": "de"
       }
     },
-	{
+    {
       "Action": "Load",
       "Target": "Fonts/SmallFont",
       "FromFile": "Fonts/SmallFont.de-DE.json",
@@ -1342,10 +1337,26 @@
         "Language": "de"
       }
     },
-	{
+    {
+      "Action": "Load",
+      "Target": "Fonts/SmallFont.png",
+      "FromFile": "Fonts/SmallFont.de-DE.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
       "Action": "Load",
       "Target": "Fonts/SpriteFont1",
       "FromFile": "Fonts/SpriteFont1.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Fonts/SpriteFont1.png",
+      "FromFile": "Fonts/SpriteFont1.de-DE.png",
       "When": {
         "Language": "de"
       }
@@ -1589,6 +1600,6 @@
       "When": {
         "Language": "de"
       }
-    }    
+    }
   ]
 }
