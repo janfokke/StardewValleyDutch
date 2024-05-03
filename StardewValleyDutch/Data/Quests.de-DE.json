@@ -1,4 +1,4 @@
-﻿{
+{
   "1": "Location/Ontmoet de Tovenaar/Je hebt een brief van de lokale tovenaar gekregen. Hij zegt informatie te hebben over het oude buurthuis./Betreed de tovenaarstoren./WizardHouse/-1/0/-1/false",
   "2": "Basic/De Mysterieuze Qi/Je hebt een briefje met vreemde instructies gevonden in een verborgen kluisje. Het is ondertekend door een zekere Mr. Qi./Leg een regenboogschelp in de doos op het perron./null/-1/0/-1/false",
   "3": "Basic/De Mysterieuze Qi/Je hebt nog een briefje van 'Mr. Qi' gevonden. Het verzoek is ditmaal nog ongebruikelijker./Leg 10 bieten in de koelkast van burgemeester Lewis./null/-1/0/-1/false",
@@ -60,5 +60,9 @@
   "127": "Basic/Haleys Cakewalk/Je vrouw organiseert een liefdadigheids-cakewalk op het dorpsplein. Ze heeft je gevraagd een chocoladetaart mee te nemen./Ga op een zonnige ochtend naar het dorp met een chocoladetaart./-1/-1/0/-1/true",
   "128": "SecretLostItem/.../.../.../Abigail 191 100 129/-1/0/-1/false/Die halsketting! Waar heb je die gevonden? $7#$b#Bedankt dat je hem teruggebracht hebt, @. Mijn moeder zal er nooit achter komen...$h",
   "129": "SecretLostItem/.../.../.../Caroline 191 50 128/-1/0/-1/false/Wat is dat? Mijn oude halsketting?$s#$b#Dat is vreemd. Ik wist niet eens dat hij weg was... Dank je dat je hem hebt teruggebracht, @.$h.",
-  "130": "Basic/De Piratenvrouw/Een oude dame die op Gembereiland woont vraagt je om een aandenken aan haar man te vinden. Ze gaf je een aangespoelde oude foto van een soldaat in de hoop dat deze je op een of andere manier hierbij zou helpen./Vind een aandenken aan Birdies man./-1/-1/0/-1/true"
+  "130": "Basic/De Piratenvrouw/Een oude dame die op Gembereiland woont vraagt je om een aandenken aan haar man te vinden. Ze gaf je een aangespoelde oude foto van een soldaat in de hoop dat deze je op een of andere manier hierbij zou helpen./Vind een aandenken aan Birdies man./-1/-1/0/-1/true",
+  "131": "Fishing/Willy Uitdaging/Willy heeft je uitgedaagd om 3 zandvissen te vangen/Vang 3 zandvissen/1/-1/-1/0/-1/false",
+  "132": "ItemHarvest/eerste stappen/Als je boer wilt worden, moet je bij de basis beginnen. Voer je kippen elke dag door ze buiten gras te laten eten of hooi in hun voerbak te doen. Als ze volgroeid zijn, oogst dan een ei van je kippen /Harvest an egg from your chickens /-5/h8 133/100/-1/true",
+  "133": "Building/Dieren voeren/Robin, de plaatselijke timmerman, woont ten noorden van de stad. In ruil voor grondstoffen en geld bouwt ze nieuwe gebouwen op je boerderij. Als je een silo bouwt, kun je je eigen gras oogsten met een zeis en opslaan om je dieren te voeden /Build a silo /Silo/-1/100/-1/true",
+  "134": "Basic/De reusachtige stronk/De grote boom in het zuiden van mijn boerderij is omgevallen. Met 100 hardhoutsoorten zou ik van de stronk iets interessants kunnen maken.../Refurbeer de reuzenstronk./-1/-1/0/-1/false"
 }
