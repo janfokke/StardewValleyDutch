@@ -323,6 +323,14 @@
     },
     {
       "Action": "Load",
+      "Target": "Strings/BigCraftables",
+      "FromFile": "Strings/BigCraftables.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
       "Target": "Strings/Buildings",
       "FromFile": "Strings/Buildings.de-DE.json",
       "When": {
@@ -395,6 +403,30 @@
     },
     {
       "Action": "Load",
+      "Target": "Strings/MovieConcessions",
+      "FromFile": "Strings/MovieConcessions.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/MovieReactions",
+      "FromFile": "Strings/MovieReactions.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Movies",
+      "FromFile": "Strings/Movies.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
       "Target": "Strings/Notes",
       "FromFile": "Strings/Notes.de-DE.json",
       "When": {
@@ -419,8 +451,32 @@
     },
     {
       "Action": "Load",
+      "Target": "Strings/Pants",
+      "FromFile": "Strings/Pants.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
       "Target": "Strings/Quests",
       "FromFile": "Strings/Quests.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Shirts",
+      "FromFile": "Strings/Shirts.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/SimpleNonVillagerDialogues",
+      "FromFile": "Strings/SimpleNonVillagerDialogues.de-DE.json",
       "When": {
         "Language": "de"
       }
