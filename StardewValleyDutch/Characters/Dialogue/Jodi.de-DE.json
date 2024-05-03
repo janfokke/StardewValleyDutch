@@ -1,9 +1,22 @@
-﻿{
+{
   "Introduction": "Oh! Je bent niet helemaal zoals ik me had voorgesteld... maar dat is oké! Ik ben Jodi.#$e#Dit is een rustig dorpje, dus het is spannend als er nieuwe mensen komen wonen! Een boer in de buurt zou een hele verandering kunnen zijn.",
+  "AcceptGift_(O)StardropTea": "Ah... Weet je zeker dat je zo'n waardevol voorwerp wilt weggeven? Nou dan, heel erg bedankt!",
   "Resort_Entering": "Wat heerlijk!",
   "Resort_Leaving": "Ik denk dat ik vanavond vis maak.$h",
   "Resort": "Het uitzicht is adembenemend! Diepblauw zo ver het oog reikt...",
   "Resort_Bar": "We zijn allemaal blij als Gus er ook is.",
+  "dating_Sam_memory_oneday": "Ik heb het gehoord over jou en Sam. Hopelijk veroorzaakt hij geen problemen!",
+  "married_Sam": "Ik ben zo blij voor jou en Sam. Ik denk dat jullie perfect bij elkaar passen#$e#Ik had nooit gedacht dat ik dit zou zeggen.... maar ik ga die vreselijke geluiden van Sam's gitaar missen...$s",
+  "GreenRain": "Alles in orde? We hebben nog nooit zoiets gezien... $s#$e#Ik wou dat mijn man hier was. Hij zou precies weten wat we moesten doen.$s",
+  "GreenRain_2": "Vincent is vroeg opgestaan om in de regen te spelen. Ik hoop dat ze gelijk hebben en dat het geen kwaad kan!",
+  "eventSeen_94": "Nogmaals bedankt voor de vis! Het was een van de beste die we in tijden hebben gehad.",
+  "eventSeen_3910975": "*Heb je het gehoord van Shane? Dat is zo vreselijk... Ik hoop dat het goed met hem gaat.",
+  "pamHouseUpgrade": "Wow... Ik hoorde wat je deed voor Pam .... Jongen, ik vraag me af wat ze heeft gedaan om zo in je gunst te komen? $s#$e#.... Ik wou dat ik zoveel geld had...$s",
+  "pamHouseUpgradeAnonymous": "Heb je Pam's nieuwe huis gezien? Tjongejonge... Ik wou dat ik zoveel geld had.... Ik zou op zijn minst de keuken willen verbouwen...$s",
+  "eventSeen_101": "Arme Clint... Ze zeggen dat hij smoorverliefd is op Emily, maar ik heb gehoord dat ze hem alleen als vriend ziet....",
+  "eventSeen_58": "Ik doe elke week aerobics met de dames.... Er kwam laatst iemand bij, maar we moesten allemaal zweren dat we zijn identiteit niet zouden onthullen!",
+  "eventSeen_3102768": "Penny is een lief meisje. Ze is nu al een tijdje Vincents lerares en hij vindt haar echt leuk.",
+  "cc_Bus": "Ze zeggen dat de bus weer rijdt. Ik weet zeker dat Pam daar blij mee is... #$b#Ik hoorde dat ze meer drinkt nadat ze haar baan verloor.... dus hopelijk helpt dat.",
   "reject_864": "Wat is dat? Dat lijkt wel een van Kents vrienden uit de oorlog. Misschien moet je hem dit laten zien.",
   "Mon": "Een huishouden runnen is hard werk... maar iemand zal het toch moeten doen.#$e#Ja?",
   "Mon6": "Het is fijn om een gezin te hebben... maar eerlijk gezegd mis ik de vrijheid van mijn jonge jaren soms...$s",
@@ -37,5 +50,6 @@
   "winter_Thu_inlaw_Sam": "Hoe gaat het met Sam? Ik moet bekennen dat ik minder hoef te koken en schoonmaken sinds hij uit huis is...",
   "winter_Thu8": "Kent en ik zijn wat overhaast getrouwd omdat hij een soldaat was... ik heb nauwelijks van mijn jeugd en vrijheid kunnen genieten.$s#$e#Ik kan niet geloven dat ik je dit vertel.$4",
   "winter_Fri": "Het zou fijn zijn om eens vakantie te kunnen nemen...$s",
-  "winter_Sun": "Als ik rijk was, zou ik meteen een huishoudster en een kok inhuren.#$e#Mijn hemel, wat zou dat fijn zijn!$h"
+  "winter_Sun": "Als ik rijk was, zou ik meteen een huishoudster en een kok inhuren.#$e#Mijn hemel, wat zou dat fijn zijn!$h",
+  "fall_Mon6": "Ik zou mijn zegeningen vaker moeten tellen. We hebben hier een goed leven. Sommige mensen hebben niet genoeg te eten.$s"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "Willy_Name": "Sappige insecten gezocht!",
   "Willy_Text": "Ahoi! Ik ben op zoek naar een grote stapel insecteningewanden. Hoe sappiger hoe beter. Volgens de krabben, althans. 100 stuks zou genoeg moeten zijn.",
   "Willy_Objective_0_Text": "Verzamel een berg insectenvlees",
@@ -129,5 +129,20 @@
   "QiChallenge12_Objective_2_Text": "Plaats 100 gele artikelen in Qis collectedoos.",
   "QiChallenge12_Objective_3_Text": "Plaats 100 groene artikelen in Qis collectedoos.",
   "QiChallenge12_Objective_4_Text": "Plaats 100 blauwe artikelen in Qis collectedoos.",
-  "QiChallenge12_Objective_5_Text": "Plaats 100 paarse artikelen in Qis collectedoos."
+  "QiChallenge12_Objective_5_Text": "Plaats 100 paarse artikelen in Qis collectedoos.",
+  "Marlon_DF_0_Name": "Monsterjacht",
+  "Marlon_DF_0_Text": "Daal af in de Schedelgrot en dood 12 {Monster:LocalisedName}.",
+  "Marlon_DF_0_Objective": "Dood 10 {Monster:LocalisedName}.",
+  "Marlon_DF_Monster_0_LocalizedName": "Slangen",
+  "Marlon_DF_Monster_1_LocalizedName": "Paarse slimes",
+  "Marlon_DF_Monster_2_LocalizedName": "Mummies",
+  "Marlon_DF_1_Name": "Diep uitzicht",
+  "Marlon_DF_1_Text": "Bereik level 30 in de Schedelgrot.",
+  "Marlon_DF_1_Objective": "Bereik level 30 in de Schedelgrot.",
+  "Marlon_DF_2_Name": "Schattenjacht",
+  "Marlon_DF_2_Text": "Verzamel {Treasure:Count} {Treasure:LocalisedName} in de Skull Cave.",
+  "Marlon_DF_2_Objective": "Verzamel {Treasure:Count} {Treasure:LocalisedName}.",
+  "Marlon_DF_Item_0_LocalizedName": "Omni Geodes",
+  "Marlon_DF_Item_1_LocalizedName": "Iridium erts stukken",
+  "Marlon_DF_Item_2_LocalizedName": "Prismatische scherven"
 }

@@ -1,6 +1,20 @@
-﻿{
+{
   "Introduction": "Gegroet! Ik ben Demetrius, lokale wetenschapper en vader. Fijn dat je je komt voorstellen!#$e#Ik bestudeer de lokale flora en fauna vanuit mijn lab thuis.#$b#Heb je mijn dochter Maru al ontmoet? Ze wilde je graag ontmoeten.",
+  "AcceptGift_(O)StardropTea": "Wow, dat is een zeldzame stof. Ik moet het naar het lab brengen voor... verdere analyses.",
+  "AcceptBirthdayGift_Positive": "Een geschenk! met perfecte timing. Vandaag is mijn geboortedag. Bedankt daarvoor!",
+  "AcceptBirthdayGift_Negative": "Een geschenk... met perfecte timing. Vandaag is de verjaardag van mijn geboorte. $h#$b#Kijken wat het is.... $h#$b#...Oh.$s",
+  "AcceptGift_(O)107": "Wow, een intact dinosaurusei! Dat is een extreem zeldzaam exemplaar. Nu alleen nog uitbroeden....",
   "Resort_Entering": "Ik heb al een zeldzame krab gezien. Het is hier geweldig.$h",
+  "GreenRain": "Let niet op mij, @. Ik verzamel gewoon een paar monsters. Dit kan een unieke kans zijn! $7#$e#Erm... Als je mijn vrouw ziet, kun je haar dan zeggen dat ik in orde ben? $7",
+  "GreenRain_2": "De regen lijkt ongevaarlijk, dus ik ben dit jaar minder voorzichtig.",
+  "firstVisit_Desert": "Ik hoorde dat je onlangs de Calico-woestijn hebt bezocht. Wat fascinerend! Ik weet zeker dat je veel unieke levensvormen hebt gezien tijdens je reis.",
+  "questComplete_104_memory_oneday": "Hoe zit het met het meloenonderzoek? Ja, ik... eh... heb hem \"geanalyseerd\" en hij heeft zeker een optimaal macronutriëntenprofiel....",
+  "purchasedAnimal_Dinosaur": "Zeg dat nog eens? Je hebt met succes een dinosaurusei uitgebroed? Dat is uniek! $5#$e#Hier, neem mijn koffie, ik word opgewonden.... Ik kan niet meer drinken. [253]",
+  "dating_Maru": "Ja, Maru vertelde me het nieuws. Ik kan niet zeggen dat ik er enthousiast over ben, maar misschien bewijs je mijn ongelijk.$u",
+  "married_Maru": "*zucht*... @, ik heb me erbij neergelegd dat het tijd is dat mijn 'kleine meisje' een vrouw wordt. Mijn zegen heb je.$s",
+  "married_Sebastian": "Gefeliciteerd met de bruiloft. Robin huilt al sinds de bruiloft. 'Tranen van vreugde' zoals ze het zelf noemt! Een heel eigenaardig concept...#$e#Hmm, nu de kelder vrij is, moet ik misschien het lab uitbreiden...$u",
+  "eventSeen_65_memory_oneweek": "$y 'Hoe gaat het met het experiment in de grot? Heeft het al iets waardevols opgeleverd? Dat betekent dat de omstandigheden geschikter moeten zijn dan ik aanvankelijk dacht... hmm..._Nee_Wel, kom af en toe eens terug. Ik weet zeker dat deze kleine jongens uiteindelijk iets zullen produceren.",
+  "eventSeen_65_memory_twoweeks": "Vergeet niet de grot op de binnenplaats te controleren! Er is daar vast en zeker al iets bruikbaars.",
   "Resort_Leaving": "Ik zal maandenlang vooruit kunnen met deze gegevens.",
   "Resort_Shore": "*krak*... Oeps, daar gaat een bedreigde krabbensoort... $s#$b#... #$b#Oh, geen paniek. Het was maar een lege schaal! Nu kan ik vannacht tenminste slapen.",
   "Resort_Chair": "Heb je het naar je zin, @? Vergeet niet om soms even rust te nemen!",
@@ -44,5 +58,6 @@
   "winter_Fri": "Hallo.#$e#%Demetrius lijkt in gedachten verzonken te zijn.",
   "winter_Sat": "Eens kijken... als seizoensgebonden stikstofniveaus gemodelleerd kunnen worden met een stuksgewijs gedefinieerde functie...$u#$b#Oh! Sorry. Ik was aan het nadenken over wat gegevens. Ik had je niet gezien.#$e#Heb je iets nodig?",
   "winter_Sun": "Verzamel maar gerust zoveel hout en steen uit de omgeving als je wil.",
-  "winter_Fri4": "Bedankt voor het langskomen. Ik moet even aan iets anders denken dan peulvruchten.#$e#Wat heb jij de laatste tijd zoal gedaan?#$e#Dat klinkt interessant."
+  "winter_Fri4": "Bedankt voor het langskomen. Ik moet even aan iets anders denken dan peulvruchten.#$e#Wat heb jij de laatste tijd zoal gedaan?#$e#Dat klinkt interessant.",
+  "purchaseAnimal_Dinosaur": "Zeg dat nog eens? Heb je met succes een ei van een dinosaurus uitgebroed? Dat is uniek! $5#$e#Hier, neem mijn koffie, ik ben al erg opgewonden... Ik kan niet meer drinken. [253]"
 }
