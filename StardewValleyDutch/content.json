@@ -211,6 +211,14 @@
     },
     {
       "Action": "Load",
+      "Target": "Minigames/Xb1ProfileButton",
+      "FromFile": "Minigames/Xb1ProfileButton.de-DE.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
       "Target": "Data/Achievements",
       "FromFile": "Data/Achievements.de-DE.json",
       "When": {
