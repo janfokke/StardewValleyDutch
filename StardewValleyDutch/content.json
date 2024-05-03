@@ -180,7 +180,7 @@
     {
       "Action": "Load",
       "Target": "Maps/townInterior",
-      "FromFile": "Maps/townInterior.png",
+      "FromFile": "Maps/townInterior.de-DE.png",
       "When": {
         "Language": "de"
       }
@@ -1325,38 +1325,6 @@
       "Action": "Load",
       "Target": "Data/TV/TipChannel",
       "FromFile": "Data/TV/TipChannel.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
-      "Target": "Fonts/SmallFont",
-      "FromFile": "Fonts/SmallFont.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
-      "Target": "Fonts/SmallFont.png",
-      "FromFile": "Fonts/SmallFont.de-DE.png",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
-      "Target": "Fonts/SpriteFont1",
-      "FromFile": "Fonts/SpriteFont1.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
-      "Target": "Fonts/SpriteFont1.png",
-      "FromFile": "Fonts/SpriteFont1.de-DE.png",
       "When": {
         "Language": "de"
       }
