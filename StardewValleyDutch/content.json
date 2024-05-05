@@ -321,6 +321,14 @@
         "Language": "de"
       }
     },
+	{
+      "Action": "Load",
+      "Target": "Strings/1_6_Strings",
+      "FromFile": "Strings/1_6_Strings.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
     {
       "Action": "Load",
       "Target": "Strings/BigCraftables",
