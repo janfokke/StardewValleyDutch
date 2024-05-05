@@ -1,9 +1,16 @@
-﻿{
+{
   "Introduction": "Hmmpf... Vervelend om al die mensen te moeten leren kennen, of niet?#$b#Ik ben trouwens George. En nu wegwezen... hmmpf.",
+  "AcceptGift_(O)StardropTea": "Hmm... *slurp*... ahhh... Smaakt net als mama's tonijnschotel! Heerlijk!",
   "accept_867": "Wat is dit? #$b#Hmmpf... dus je drukt eerst op deze knop? Wat doet deze? Hmm... *mopper* $b#$b#Hehe! Wat zeg je me daarvan! Een nieuwe zender!$h#$b# Hier, je mag dit hebben. Een steen die ik in mijn mijnwerkersdagen heb gevonden. Vreemd genoeg gloeit hij blauw en voelt hij al meer dan veertig jaar lang koud aan. Het lijkt wel magie!",
+  "GreenRain": "Zo, zo, schatje... Maak je geen zorgen.%noturn#$b#Ook al is het giftig, ik ademde vroeger in een minuut meer giftig gas in in de oude kolenmijnen.... En ik ben nog steeds fit!",
+  "GreenRain_2": "Het lijkt erop dat de jongeren hierna meer onkruid zullen moeten wieden.... Heheh...$h",
   "pamHouseUpgrade": "Bedankt dat je die oude woonwagen vervangen hebt... het nieuwe huis ziet er veel beter uit.#$e#En misschien gaat de waarde van ons huis nu ook wel omhoog!",
   "pamHouseUpgradeAnonymous": "Hm... dat nieuwe huis belemmert mijn uitzicht op de rivier een beetje... maar het ziet er stukken beter uit dan dat oude blik waar Pam eerst in woonde.",
   "MovieInvitation": "Wil je met een oude kerel als ik naar de film? ...Oké... vooruit dan maar. Ik zie je daar wel.",
+  "eventSeen_502969_memory_oneweek": "Ik weet niet wat jullie hebben gedaan, maar de wasberen zijn er sinds vorige week niet meer!",
+  "eventSeen_18_memory_oneweek": "Ik ben misschien niet op de hoogte, maar als je zo lang leeft als ik, leer je het een en ander over de manier van leven. Dat heet \"wijsheid.\" #$b#Jonge mensen begrijpen het grote geheel niet. Hoe zouden ze dat kunnen?",
+  "married_Alex": "...Hmmph. ^Ik wil graag een overgrootvader zijn voordat ik sterf. Denk je dat je dat kunt?",
+  "divorced_once": "Hmmph... de makkelijke weg gekozen, huh? #$e# Tegenwoordig behandelen mensen het huwelijk als een TV-toestel.... Als je je verveelt, verander je gewoon van zender! In mijn tijd... *grumbles*",
   "joja_Begin": "Dus het oude buurthuis is weg? Waar is de gemeenschapszin? Schandalig hoe de tijden zijn veranderd...",
   "Mon": "Ik ben niet zo'n prater. Vooral niet tegen vreemden, als je het niet erg vindt.",
   "Tue": "Hmmpf... alweer een troosteloze dag.$s",
@@ -23,5 +30,7 @@
   "Wed10": "@! Laat me deze kijkdoos wat zachter zetten zodat we kunnen praten.$h#$e#Wat doet de jeugd zoal tegenwoordig?",
   "Tue10": "Weet je, ik zou niet zo bij de pakken neer moeten zitten over mijn benen.#$e#Ik zou blij moeten zijn dat ik nog leef.$h",
   "Thu10": "Op mijn leeftijd is het moeilijker om je aan te passen aan nieuwe dingen.#$e#Ooit zul je begrijpen wat ik bedoel.#$e#Vooruit, geniet nog maar zolang je jong bent.",
-  "winter_1": "Brr... Het is zo koud.#$e#Als je jong bent heb je niet zo'n last van de kou."
+  "winter_1": "Brr... Het is zo koud.#$e#Als je jong bent heb je niet zo'n last van de kou.",
+  "WinterStar_GiveGift_After": "Daar hou je niet van, huh? Bah! De jeugd van tegenwoordig... waardeert niets meer. Dat was duur, en ik ben niet van geld gemaakt, weet je!",
+  "divorced": "Hmmph... de makkelijke weg gekozen, huh? #$e# Tegenwoordig behandelen mensen het huwelijk als een tv-toestel... Als je je verveelt, verander je gewoon van zender! In mijn tijd... *grumbles*"
 }

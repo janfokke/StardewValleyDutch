@@ -13,15 +13,6 @@
       "Action": "Load",
       "Target": "LooseSprites/ControllerMaps",
       "FromFile": "LooseSprites/ControllerMaps.de-DE.png",
-
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
-      "Target": "LooseSprites/CraneGame",
-      "FromFile": "LooseSprites/CraneGame.de-DE.png",
       "When": {
         "Language": "de"
       }
@@ -178,7 +169,6 @@
         "Language": "de"
       }
     },
-
     {
       "Action": "Load",
       "Target": "Maps/coopTiles",
@@ -187,16 +177,14 @@
         "Language": "de"
       }
     },
-
     {
       "Action": "Load",
       "Target": "Maps/townInterior",
-      "FromFile": "Maps/townInterior.png",
+      "FromFile": "Maps/townInterior.de-DE.png",
       "When": {
         "Language": "de"
       }
     },
-    
     {
       "Action": "Load",
       "Target": "Minigames/jojacorps",
@@ -223,24 +211,16 @@
     },
     {
       "Action": "Load",
+      "Target": "Minigames/Xb1ProfileButton",
+      "FromFile": "Minigames/Xb1ProfileButton.de-DE.png",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
       "Target": "Data/Achievements",
       "FromFile": "Data/Achievements.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/BigCraftablesInformation",
-      "FromFile": "Data/BigCraftablesInformation.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Blueprints",
-      "FromFile": "Data/Blueprints.de-DE.json",
       "When": {
         "Language": "de"
       }
@@ -263,38 +243,6 @@
     },
     {
       "Action": "Load",
-      "Target": "Data/ClothingInformation",
-      "FromFile": "Data/ClothingInformation.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Concessions",
-      "FromFile": "Data/Concessions.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/CookingRecipes",
-      "FromFile": "Data/CookingRecipes.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/CraftingRecipes",
-      "FromFile": "Data/CraftingRecipes.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
       "Target": "Data/EngagementDialogue",
       "FromFile": "Data/EngagementDialogue.de-DE.json",
       "When": {
@@ -305,30 +253,6 @@
       "Action": "Load",
       "Target": "Data/ExtraDialogue",
       "FromFile": "Data/ExtraDialogue.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/FarmAnimals",
-      "FromFile": "Data/FarmAnimals.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Fish",
-      "FromFile": "Data/Fish.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Furniture",
-      "FromFile": "Data/Furniture.de-DE.json",
       "When": {
         "Language": "de"
       }
@@ -359,40 +283,8 @@
     },
     {
       "Action": "Load",
-      "Target": "Data/Movies",
-      "FromFile": "Data/Movies.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/MoviesReactions",
-      "FromFile": "Data/MoviesReactions.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/NPCDispositions",
-      "FromFile": "Data/NPCDispositions.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
       "Target": "Data/NPCGiftTastes",
       "FromFile": "Data/NPCGiftTastes.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/ObjectInformation",
-      "FromFile": "Data/ObjectInformation.de-DE.json",
       "When": {
         "Language": "de"
       }
@@ -423,16 +315,24 @@
     },
     {
       "Action": "Load",
-      "Target": "Data/weapons",
-      "FromFile": "Data/weapons.de-DE.json",
+      "Target": "Strings/animationDescriptions",
+      "FromFile": "Strings/animationDescriptions.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+	{
+      "Action": "Load",
+      "Target": "Strings/1_6_Strings",
+      "FromFile": "Strings/1_6_Strings.de-DE.json",
       "When": {
         "Language": "de"
       }
     },
     {
       "Action": "Load",
-      "Target": "Strings/animationDescriptions",
-      "FromFile": "Strings/animationDescriptions.de-DE.json",
+      "Target": "Strings/BigCraftables",
+      "FromFile": "Strings/BigCraftables.de-DE.json",
       "When": {
         "Language": "de"
       }
@@ -511,6 +411,30 @@
     },
     {
       "Action": "Load",
+      "Target": "Strings/MovieConcessions",
+      "FromFile": "Strings/MovieConcessions.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/MovieReactions",
+      "FromFile": "Strings/MovieReactions.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Movies",
+      "FromFile": "Strings/Movies.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
       "Target": "Strings/Notes",
       "FromFile": "Strings/Notes.de-DE.json",
       "When": {
@@ -535,8 +459,32 @@
     },
     {
       "Action": "Load",
+      "Target": "Strings/Pants",
+      "FromFile": "Strings/Pants.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
       "Target": "Strings/Quests",
       "FromFile": "Strings/Quests.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Shirts",
+      "FromFile": "Strings/Shirts.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/SimpleNonVillagerDialogues",
+      "FromFile": "Strings/SimpleNonVillagerDialogues.de-DE.json",
       "When": {
         "Language": "de"
       }
@@ -577,6 +525,22 @@
       "Action": "Load",
       "Target": "Strings/UI",
       "FromFile": "Strings/UI.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/Weapons",
+      "FromFile": "Strings/Weapons.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Strings/WorldMap",
+      "FromFile": "Strings/WorldMap.de-DE.json",
       "When": {
         "Language": "de"
       }
@@ -1071,6 +1035,14 @@
     },
     {
       "Action": "Load",
+      "Target": "Data/Events/DesertFestival",
+      "FromFile": "Data/Events/DesertFestival.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
       "Target": "Data/Events/ElliottHouse",
       "FromFile": "Data/Events/ElliottHouse.de-DE.json",
       "When": {
@@ -1313,7 +1285,6 @@
       "Action": "Load",
       "Target": "Data/Events/Trailer",
       "FromFile": "Data/Events/Trailer.de-DE.json",
-
       "When": {
         "Language": "de"
       }
@@ -1322,7 +1293,7 @@
       "Action": "Load",
       "Target": "Data/Events/Trailer_Big",
       "FromFile": "Data/Events/Trailer_Big.de-DE.json",
-            "When": {
+      "When": {
         "Language": "de"
       }
     },
@@ -1418,14 +1389,6 @@
       "Action": "Load",
       "Target": "Data/TV/CookingChannel",
       "FromFile": "Data/TV/CookingChannel.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/TV/InterviewShow",
-      "FromFile": "Data/TV/InterviewShow.de-DE.json",
       "When": {
         "Language": "de"
       }
@@ -1677,14 +1640,6 @@
       "When": {
         "Language": "de"
       }
-    },
-    {
-      "Action": "Load",
-      "Target": "Strings/schedules/spring/Penny",
-      "FromFile": "Strings/schedules/spring/Penny.de-DE.json",
-      "When": {
-        "Language": "de"
-      }
-    }        
+    }
   ]
 }

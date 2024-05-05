@@ -1,6 +1,20 @@
-﻿{
+{
   "Introduction": "Hoe beviel je eerste nacht in het huisje?#$e#Je grootvader klaagde altijd over het gammele bed. Maar diep van binnen hield hij volgens mij van dat huis.",
+  "AcceptGift_(O)StardropTea": "Ik heb veel thee geprobeerd in mijn leven, maar geen enkele zo zeldzaam en speciaal als deze. Dank je wel!",
+  "AcceptBirthdayGift_Positive": "Ah, je herinnerde je de verjaardag van de oude burgemeester. Dat is erg attent van je. En het is een mooi cadeau!",
+  "GreenRain": "Ik heb net gebeld met de gouverneur .... Blijkbaar is deze regen volledig onschadelijk. Gewoon een ongewoon natuurverschijnsel. Desondanks zijn sommige inwoners in paniek, wat nooit goed is...",
+  "GreenRainFinished": "Nou, dat was nogal wat opschudding voor ons kleine stadje! Ik ben gewoon opgelucht dat iedereen in orde is.$h#$e#Ik denk dat als zoiets nog eens gebeurt, we allemaal wat relaxter zullen zijn. Het is niet het einde van de wereld!",
+  "GreenRain_2": "Ik denk dat we deze ongewone regens elk jaar kunnen verwachten. Ik denk dat iedereen wat rustiger is omdat ze weten dat het gewoon bij de natuur hoort.",
+  "AcceptBirthdayGift_Negative": "Ah, je herinnerde je de verjaardag van de oude burgemeester...wat is dat? $h#$b#Uhm...je weet wat ze zeggen, 'Het is de gedachte die telt'.",
+  "cropMatured_24": "Hé, ik kwam gisteravond langs de container en zag dat je eerste oogst pastinaken klaar is. Gefeliciteerd!",
+  "cropMatured_254": "De meloenen op de boerderij zien er echt goed uit! Dit was een van je opa's favoriete gewassen.",
+  "cropMatured_276": "Een pompoen is het toppunt van \"herfst\", vind je niet?",
   "Resort": "Ik ben onder de indruk, @. Je hebt het hier echt opgeknapt!",
+  "married": "Gefeliciteerd, @. Dat is een grote stap voorwaarts voor jou en %echtgenoot. Je hebt je echt geworteld in deze stad!",
+  "married_twice": "Nogmaals gefeliciteerd, @.",
+  "divorced_once": "Het scheidingspapierwerk is geregeld. Sorry dat het niet lukte....",
+  "divorced_twice": "Weer een scheiding? Kom op, @...je zou wat voorzichtiger moeten zijn met wie je in de toekomst trouwt...$u",
+  "movieTheater": "Alle jongeren lijken blij te zijn met de nieuwe bioscoop. #$e#Een bloeiende bioscoop zal goed zijn voor de lokale economie. Ik hoop alleen dat er niets aanstootgevends in de moderne films zit!",
   "Resort_Leaving": "Allemaal aan boord! We gaan terug naar de vallei!",
   "Resort_Shore": "Vakantieplekken als deze kunnen goed zijn voor de lokale economie!#$e#Ik kan maar beter niet te lang in de zon blijven, anders droogt mijn snor uit.",
   "Resort_Chair": "Hehe... kijk deze plek eens! Ik weet niet hoe je het gedaan hebt, maar iedereen heeft het over dit vakantieoord!$h",
@@ -10,8 +24,10 @@
   "willyCrabs": "Ruik je dat ook? Ik ruik al de hele dag verse krab...$u",
   "cc_Begin": "Ah, ik kan ruiken dat je in het oude buurthuis hebt gewerkt. Fijn dat iemand zich erom bekommert.",
   "cc_Complete": "Ik ben nog nooit zo trots geweest op onze gemeenschap. Je hebt veel voor Pelican Town gedaan, @.$h",
+  "cc_Bridge": "Op de een of andere manier is de oude brug naar de steengroeve nu gerepareerd.#$b#Het moet een heel team gekost hebben om dat ding te repareren! Wie kan dat geweest zijn?",
   "cc_Bus": "Heb je het al gehoord, @? De oude schoolbus doet het van de een op de andere dag weer!$h#$b#Dat oude ding reed al tientallen jaren niet meer. Wat een mysterie!",
   "joja_Begin": "Het oude buurthuis is er niet meer... de tijden veranderen. Aan al het goede moet een eind komen... maar toch zal ik het missen.$s#$e#Ik hoop dat dit geen smet op mijn burgemeesterschap is.$s",
+  "wonGrange": "Gefeliciteerd met het winnen van de show.#$e#Hehe.... Tussen jou en mij, ik denk dat Pierre een flinke kom nederige taart nodig had! $h",
   "Mon": "Het is een goede tijd van het jaar om te tuinieren, zelfs voor ons niet-boeren.#$e#De vallei staat bekend om haar prachtige lentebloemen!$h",
   "Tue": "Plaats alles wat je wil verkopen in de verzenddoos naast je huis.#$e#Ik ben benieuwd wat je er allemaal in stopt.",
   "Saloon_Entry": "Hoi, Gus!",
@@ -53,5 +69,6 @@
   "winter_Wed": "Ik blijf 's avonds langskomen om je spullen op te halen, ook in de sneeuw.#$e#Je moet ook in de winter geld kunnen verdienen!",
   "winter_Fri": "Hopelijk gaat het goed met je boerderij.",
   "winter_Fri6": "Ik ben nooit getrouwd geweest. Ik heb geen gezin. Ik ben volledig toegewijd aan mijn burgemeesterschap.$s#$e#Is het het waard?$s#$e#...*zucht*...$s",
-  "winter_Sun": "Hoi, @! Hoe gaat het vandaag?$h#$e#Doe Marnie de groeten van me als je haar ziet."
+  "winter_Sun": "Hoi, @! Hoe gaat het vandaag?$h#$e#Doe Marnie de groeten van me als je haar ziet.",
+  "divorced": "Het scheidingspapierwerk is geregeld. Sorry dat het niet gelukt is...."
 }
