@@ -1,10 +1,10 @@
 {
     "Name": "StardewValley Dutch",
-    "Author": "Spawk and JanFokke",
-    "Version": "1.1.1",
+    "Author": "Spawk and JanFokke, updated for 1.6 by Azelion",
+    "Version": "1.0.0",
     "Description": "A Dutch translation for StardewValley",
-    "UniqueID": "JanFokke.StardewValleyDutch",
-    "UpdateKeys": [],
+    "UniqueID": "Azelion.StardewValleyDutch",
+    "UpdateKeys": ["GitHub:Azelion.StardewValleyDutch"],
     "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher"
     }
