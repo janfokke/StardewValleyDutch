@@ -13,4 +13,5 @@ Deze repository bevat de Nederlandse vertaling voor Stardew Valley.
    
 # Credits
 Originele vertaling door **Spawk** met technische ondersteuning van **JanFokke** 
+Mobiele V1.5 vertaling door **rhansenne**
 Geupdated voor 1.6 door **Azelion**
