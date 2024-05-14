@@ -4,7 +4,7 @@
     "Version": "1.6.4",
     "Description": "A Dutch translation for StardewValley",
     "UniqueID": "Azelion.StardewValleyDutch",
-    "UpdateKeys": ["GitHub:Azelion.StardewValleyDutch"],
+    "UpdateKeys": ["GitHub:JanFokke.StardewValleyDutch"],
     "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher"
     }
