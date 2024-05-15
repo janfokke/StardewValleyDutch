@@ -395,6 +395,14 @@
     },
     {
       "Action": "Load",
+      "Target": "Strings/Furniture",
+      "FromFile": "Strings/Furniture.de-DE.json",
+      "When": {
+        "Language": "de"
+      }
+    },
+    {
+      "Action": "Load",
       "Target": "Strings/Lexicon",
       "FromFile": "Strings/Lexicon.de-DE.json",
       "When": {
