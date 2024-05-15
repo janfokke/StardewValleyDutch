@@ -799,5 +799,8 @@
   "Chat_RaceWinners_List": "{0},",
   "Chat_RaceWinners_Final": "en {0}!",
   "Chat_CalicoStatue_Activated": "Calico standbeeld: {0}",
-  "Tomorrow": "Goedemorgen..."
+  "Tomorrow": "Morgen...",
+  "Chat_HardModeSkullCaveActivated": "{0} has removed an ancient magi-seal of protection in the Skull Cavern. Tonight, powerful monsters will ascend from the deep...",
+  "Chat_HardModeSkullCaveDeactivated": "{0} has restored an ancient magi-seal of protection in the Skull Cavern. Tomorrow, it will return to normal...",
+  "BirthdayOrder": "{1} {0}"
 }
