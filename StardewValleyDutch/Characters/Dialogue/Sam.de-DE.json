@@ -27,7 +27,7 @@
   "Resort_Bar": "Ik drink een sapje en ga daarna weer terug naar het strand.",
   "FlowerDance_Accept_Spouse": "Moet ik dit stomme pak weer dragen? Ik dacht dat nu we getrouwd zijn... Hoe dan ook, oké.",
   "FlowerDance_Decline": "Hmm... Ik weet 't niet. Misschien volgend jaar.$s",
-  "dumped_Guys": "... $a",
+  "dumped_Guys": "...$a",
   "secondChance_Guys": "Goed, ik zal je niet meer negeren. Laten we vergeten wat er gebeurd is.$7",
   "breakUp": "Wacht... wat?!$8#$b#Ik dacht dat alles goed zat tussen ons... blijkbaar zat ik er behoorlijk naast...$9#$b#Ja, hoor... we kunnen nog wel vrienden zijn. $9",
   "divorced": "Het spijt me, @. Ik denk niet dat we nog vrienden kunnen zijn.$s",
@@ -82,7 +82,7 @@
   "summer_Wed": "Hé. Neem je een dagje vrij?#$e#Klinkt interessant.",
   "summer_Wed2": "Er zat vannacht een spin op mijn plafond. Ze houden van de warmte.#$e#Ik hoop dat hij niet in mijn mond is gekropen terwijl ik sliep...$s",
   "summer_Thu": "Pap was me aan het vertellen over onze vijand, het Gotoro-keizerrijk... wat een meedogenloos volk.",
-  "summer_Thu6_2": "Hmm... Ik weet het niet. Misschien volgend jaar.$s",
+  "summer_Thu6_2": "Soms hoor ik mijn vader 's nachts door de gang lopen. $s#$b#... Maar hij vertelt ons niet wat hem dwars zit.",
   "summer_Fri": "Ik woonde vroeger in de stad. Ik moet zeggen dat het hier veel aangenamer is in de zomer.$h#$e#In de stad wordt het gloeiend heet door al het beton.",
   "summer_Sun": "Als je heteluchtballonnen boven de zee ziet zweven, dan weet je dat het echt zomer is.",
   "fall_Mon2": "Ik maak graag boswandelingen in deze tijd van het jaar. De temperatuur is aangenaam in het bos.#$e#...$h",
@@ -116,5 +116,4 @@
   "winter_Sat4": "Ik herinner me net dat ik de snaren van mijn gitaar moet vervangen.#$b#Ik zal het op mijn pols schrijven zodat ik het vanavond niet vergeet.#$e#Ik heb geheugensteuntjes nodig, anders vergeet ik sommige dingen gewoon.$h",
   "winter_Sun8": "Het zou leuk zijn als we konden gaan sleeën, of niet?#$e#Maar er zijn hier geen goede heuvels.$s#$e#Plus ik heb geen slee.#$e#En hoe gaat het verder met jou?",
   "winter_Sun": "Maak geen rotzooi in huis, anders wordt mijn moeder gek.",
-  "summer_Thu6_1": "Soms hoor ik mijn vader 's nachts door de gang ijsberen.$s#$b#...Maar hij vertelt ons niet wat hem dwars zit."
 }
