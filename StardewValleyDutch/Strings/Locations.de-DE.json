@@ -1,5 +1,5 @@
 {
-  "AdventureGuild_KillList_Header": "------------------------------\n    --Doelen voor de Monsterjacht--\n             'Help ons de vallei veilig te houden.'\n------------------------------",
+  "AdventureGuild_KillList_Header": "------------------------------\n\t\t\t--Doelen voor de Monsterjacht--\n             \"Help ons de vallei veilig te houden.\"\n------------------------------",
   "AdventureGuild_KillList_LineFormat": "{0}/{1} {2}",
   "AdventureGuild_KillList_LineFormat_None": "{0}/{1} ????",
   "AdventureGuild_KillList_LineFormat_OverTarget": "{0} {2} *",

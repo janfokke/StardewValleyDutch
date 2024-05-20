@@ -292,7 +292,7 @@
     {
       "Action": "Load",
       "Target": "Data/PaintData",
-      "FromFile": "Data/PaintData.json",
+      "FromFile": "Data/PaintData.de-DE.json",
       "When": {
         "Language": "de"
       }
