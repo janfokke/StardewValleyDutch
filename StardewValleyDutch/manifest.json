@@ -4,7 +4,7 @@
     "Version": "1.6.5",
     "Description": "A Dutch translation for StardewValley",
     "UniqueID": "JanFokke.StardewValleyDutch",
-    "UpdateKeys": ["GitHub:JanFokke.StardewValleyDutch"],
+    "UpdateKeys": ["GitHub:JanFokke.StardewValleyDutch", "Nexus:24290"],
     "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher"
     }
