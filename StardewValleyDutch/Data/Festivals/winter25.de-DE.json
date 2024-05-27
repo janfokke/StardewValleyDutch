@@ -1,5 +1,5 @@
 {
-  "name": "het feest van de winterster",
+  "name": "Het Feest van de Winterster",
   "conditions": "Town/900 1400",
   "set-up": "christmasTheme/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Christmas/viewport -1000 -1000/loadActors Set-Up/viewport player clamp true unfreeze/globalFadeToClear/playerControl christmas",
   "secretSanta": "none/-1000 -1000/farmer 30 69 0/warp Emily 37 59/warp Haley 35 74/warp secretSanta 29 75/faceDirection secretSanta 0/viewport 30 67 true/pause 2000/move secretSanta 0 -4 0/move secretSanta 1 0 0/pause 500/shake secretSanta 100/playSound stoneStep/specificTemporarySprite secretGift/pause 100/faceDirection farmer 2/pause 200/jump farmer/pause 700/emote farmer 16/pause 100/move secretSanta -1 0 0/move secretSanta 0 -2 0/pause 700/faceDirection farmer 3/pause 300/faceDirection farmer 0/pause 500/faceDirection secretSanta 1/pause 500/speak secretSanta \"dialogue1\"/pause 300/faceDirection farmer 2/pause 800/showFrame 4/pause 300/playSound cut/specificTemporarySprite secretGiftOpen/pause 400/stopAnimation farmer/faceDirection farmer 2/pause 1000/cutscene addSecretSantaItem/pause 3000/null/faceDirection farmer 3/speak secretSanta \"dialogue2\"/pause 600/eyes 1 -1500/emote farmer 32/pause 1000/globalFade/viewport -1000 -1000/warp Emily 29 72/warp Haley 30 72/warp secretSanta warpX warpY/faceDirection farmer 2/cutscene clearTempSprites/playMusic christmasTheme/viewport 30 67 true/playerControl christmas2",
@@ -54,7 +54,7 @@
   "Penny_spouse_y2": "Ik hoop dat iedereen mijn gepoederde meloencrisp lekker vindt...$h",
   "Haley_spouse_y2": "Als ik alle goede dingen in mijn leven tel, voel ik me gezegend door de winterster.",
   "Emily_spouse_y2": "Toen Haley en ik kinderen waren, versierden we koekjes op deze feestdag. #$b#Dat moeten we nog eens doen! Je kunt goede tradities niet laten uitsterven.$h",
-  "Sebastian_spouse_y2": "Hé... Maak je geen zorgen, je hoeft me niets te geven. Ik ben gewoon blij om elke morgen naast je wakker te worden... wat wil je nog meer?",
+  "Sebastian_spouse_y2": "Hé... Maak je geen zorgen, je hoeft me niets te geven.$h#$e#Ik ben gewoon blij om elke morgen naast je wakker te worden... wat wil je nog meer?",
   "Sam_spouse_y2": "Het is leuk om te zien hoe iedereen zijn cadeautjes opent... hun reacties te zien.$h#$e#Oh ja, ik heb iets voor jou. Ik laat het je zien als we terug zijn op de boerderij!$10",
   "Alex_spouse_y2": "Laat het me weten als je het koud krijgt. Ik leen je mijn jas.$0",
   "Harvey_spouse_y2": "Er zijn veel dingen waar ik dankbaar voor ben, zoals mijn kliniek, de goede gezondheid van mijn patiënten...#$b#Maar uiteindelijk ben ik het meest dankbaar voor het leven dat we samen opbouwen...$l",
@@ -67,7 +67,7 @@
   "Shane_y2": "Een voordeel van het koude weer is dat ik bevroren pizza's onder de boom kan leggen.#$e#Er zal iemand heel blij zijn...$h",
   "Sebastian_y2": "Het lijkt me leuk om eens de hele familie bij elkaar te hebben.$7",
   "Pierre_y2": "Last-minute cadeautje nodig? Ik heb alles wat je nodig hebt! Kijk eens naar mijn koopwaar.$0",
-  "Caroline_y2": "Is de boom niet prachtig? Ik heb hem de hele ochtend versierd met Marnie en Jodi. Het is een mooie traditie!",
+  "Caroline_y2": "Is de boom niet prachtig?$h#$b#Ik heb hem de hele ochtend versierd met Marnie en Jodi. Het is een mooie traditie!",
   "Linus_y2": "De burgemeester heeft me persoonlijk uitgenodigd aan zijn tafel. Dat kon ik niet afslaan!",
   "Alex_y2": "Ik weet bijna zeker dat er een basketbalvormig cadeau met mijn naam erop onder de zielenboom ligt.$1",
   "George_y2": "Ik ben toch al de hele dag bij mijn familie. Waarom hebben we buiten in de kou zo'n drukte nodig?$0",
@@ -89,7 +89,7 @@
   "Wizard_y2": "Ah, de mysterieuze winterster. Een van de redenen waarom ik deze vallei koos als locatie voor mijn... onderzoek.",
   "Harvey_y2": "Heb je de pecantaart al geprobeerd? Het is mijn favoriet.$0",
   "Jas_y2": "Is het al tijd om cadeautjes open te maken?$0",
-  "Vincent_y2": "Ik heb de speelgoed dinosaurus die ik wilde! Zie je? Zijn naam is... Ste-... Stego-... Stegosonaurus. ...denk ik.$0",
+  "Vincent_y2": "Ik heb de speelgoed dinosaurus die ik wilde! Zie je??$1#$e#Zijn naam is... Ste-... Stego-... Stegosonaurus. ...denk ik.$0",
   "Marlon_y2": "Huh? Oh, hallo.$0#$e# Let maar niet op mij. Ga en vermaak jezelf. ",
   "Leo_y2": "Ik weet niet wat het meeste van dit spul is.... maar het smaakt goed!$0"
 }
