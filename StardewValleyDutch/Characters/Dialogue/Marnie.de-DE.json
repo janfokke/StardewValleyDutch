@@ -13,7 +13,7 @@
   "Resort_Leaving": "Ik heb het warm.",
   "Resort_Shore": "Hihi... het is interessant om iedereen in hun zwemkleding te zien.",
   "Resort_Chair": "Bah... de stoel is nat.",
-  "Resort_Bar": "Pfoe... het is heet! $s",
+  "Resort_Bar": "Pfoe... het is heet!$s",
   "reject_789": "Aah!$4#$b#...Uh... Wat? Heh... ik zou niet weten wat dat is...$3.",
   "Mon": "Ik hou van dieren, @. Als je de jouwe goed behandelt, worden we vast en zeker goede vrienden!^Ik hou van dieren, @. Als je de jouwe goed behandelt, worden we vast en zeker goede vrienden!",
   "Mon4": "Dieren zijn zo lief en onschuldig. En als ik niet voor ze zorg, wie dan wel?$s#$e#Ik hoop alleen dat mijn kippen niet boos zijn dat ik hun eieren afpak.$s",
@@ -25,7 +25,7 @@
   "Saloon_Fri": "%Marnie lijkt je niet op te merken...",
   "Saloon_Sun": "*zucht*... Ik heb vandaag weinig voor mekaar gekregen.",
   "Saloon_Sat": "Ik zie Clint hier altijd, maar hij praat nooit met iemand. Hij kijkt alleen soms over zijn schouder.$s",
-  "Tue": "Mijn neef Shane woont al een paar maanden bij me.#$e#Hij helpt me met de kippen, dus ik mag niet klagen.",
+  "Tue": "$query PLAYER_NPC_RELATIONSHIP any Shane married roommate#Nu Shane weg is, moet ik Jas leren hoe ze voor de kippen moet zorgen.|Mijn neef Shane woont al een paar maanden bij me.#$e#Hij helpt me met de kippen, dus ik mag niet klagen.",
   "GreenRain": "Maak je je geen zorgen over de regen? Dat stelt me een beetje gerust...#$e#Ik hoop alleen dat de koeien op het droge zijn...$s",
   "GreenRainFinished": "Het lijkt erop dat we allemaal bang waren voor niets.... De regen was volkomen ongevaarlijk!",
   "GreenRain_2": "De dieren lijken te genieten van deze regen.... Ik denk dat het extra voedingsstoffen toevoegt aan het gras.",
@@ -38,6 +38,6 @@
   "Sun8": "Hoi, @!$h#$e#Ik ben blij dat we vrienden zijn geworden. Ik kan je zonder aarzelen mijn lieve dieren toevertrouwen.",
   "Fair_Judging": "Nou, het komt wel goed...",
   "Fair_Judged": "Nou, ik heb niet gewonnen... Maar ik ben blij dat ik al mijn harde werk kan delen!",
-  "Fair_Judged_PlayerLost_PurpleShorts": "De paarse kool zag er al heel raar uit...$h#$b#Ik zweer het, het leek op burgemeester Lewis' paarse onder...$3#$b#Oh!.... Haha... Vergeet wat ik zei! $4",
+  "Fair_Judged_PlayerLost_PurpleShorts": "De paarse kool zag er al heel raar uit...$h#$b#Ik zweer het, het leek op burgemeester Lewis' paarse onder...$3#$b#Oh!.... Haha... Vergeet wat ik zei!$4",
   "Fri4": "#$1 marnieLike#Volgens mij heeft iemand in het dorp een oogje op me. *hihi*$k$h#$e#Ik zou zo eenzaam zijn als Shane ooit verhuisde."
 }
