@@ -9,7 +9,7 @@ Deze repository bevat de Nederlandse vertaling voor Stardew Valley.
 2. [Download Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915) en pak deze uit in Stardew Valley/Mods.
 3. [Download deze mod](https://github.com/janfokke/StardewValleyDutch/releases) en pak deze uit in Stardew Valley/Mods.
 4. Start het spel met SMAPI.
-5. Verander de taal naar Duits.
+5. Verander de taal naar Nederlands op pagina 2 van de taalkeuze!
    
 # Credits
 Originele vertaling door **Spawk** met technische ondersteuning van **JanFokke** 
