@@ -1,11 +1,11 @@
 {
-    "Name": "StardewValley Dutch",
-    "Author": "Spawk and JanFokke, updated for 1.6 by Azelion",
-    "Version": "1.6.14",
-    "Description": "A Dutch translation for StardewValley",
-    "UniqueID": "JanFokke.StardewValleyDutch",
-    "UpdateKeys": ["GitHub:JanFokke.StardewValleyDutch", "Nexus:24290"],
-    "ContentPackFor": {
-      "UniqueID": "Pathoschild.ContentPatcher"
-    }
+  "Name": "StardewValley Dutch",
+  "Author": "Spawk and JanFokke, updated for 1.6 by Azelion",
+  "Version": "1.6.15",
+  "Description": "A Dutch translation for StardewValley",
+  "UniqueID": "JanFokke.StardewValleyDutch",
+  "UpdateKeys": ["GitHub:JanFokke.StardewValleyDutch", "Nexus:24290"],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
   }
+}
