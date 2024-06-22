@@ -66,7 +66,7 @@
   "Wed2": "Oh. Hoi, @. Neem je even pauze?#$e#Ik ook. Oh! Niet van werk... maar van een paar online lessen die ik volg.",
   "Tue4": "Hoi. Blij je te zien.$h#$e#Ik wil mijn zinnen even verzetten. Vertel me eens over je dag.",
   "Sat6": "Ben je helemaal hierheen gekomen om mij te bezoeken? Dat is aardig.$h#$e#Heb je de berggrotten al verkend?#$e#Interessant. Ik wil er binnenkort zelf eens gaan kijken.$l",
-  "Mon8": "$query PLAYER_NPC_RELATIONSHIP current any married roommate#Ik herinner me nog dat je voor 't eerst aankwam in het dorp, ik was een beetje bedroefd dat de oude bossen een akker zouden worden. Maar nu ben ik echt blij dat je hier bent komen wonen!$h|...Oh, @! Hoi.$h#$e#Wil je me gezelschap houden? Hier, ik zal je hand lezen. *giechel*$h",
+  "Mon8": "$query PLAYER_NPC_RELATIONSHIP current any married roommate#Ik herinner me nog dat je voor 't eerst aankwam in het dorp, ik was een beetje bedroefd dat de oude bossen een akker zouden worden. Maar nu ben ik echt blij dat je hier bent komen wonen!$h|...Oh, @! Hoi.$h#$e#Kom je erbij zitten? Hier, ik zal je hand lezen. *giechel*$h",
   "Thu10": "Hoi.$l#$e#Vind je ook niet dat alles de laatste tijd onwerkelijk lijkt?$l#$b#Maar niet op een slechte manier.$h",
   "Fri6": "De vogels klonken vrolijk vandaag. Ze zijn te simpel om de toekomst te begrijpen.#$e#Het is beter om zoals hen te zijn, of niet?",
   "Event_VideoGame_Yes": "Mooi! Ik weet zeker dat je dit level met gemak kunt uitspelen.$h",
