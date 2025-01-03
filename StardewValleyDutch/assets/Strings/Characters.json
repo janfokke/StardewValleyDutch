@@ -20,6 +20,7 @@
   "Relative_Grandson": "kleinzoon",
   "Relative_Nephew": "neef",
   "Relative_Niece": "nicht",
+  "FallbackDialogueForError": "...",
   "NameYourHorse": "Geef je paard een naam",
   "WipedMemory": "Jij bent de nieuwe boer, toch?#$e#Je lijkt... nee, we hebben elkaar vast nog nooit ontmoet.",
   "DefaultHorseName": "Grover",
