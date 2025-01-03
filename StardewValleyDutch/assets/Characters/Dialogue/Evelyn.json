@@ -38,7 +38,7 @@
   "fall_Wed": "De goede burgemeester heeft me de verantwoording gegeven over de dorpstuintjes.#$e#De herfstbloemen zijn teer, dus loop er niet overheen! Ik weet hoe de jeugd is.",
   "fall_Thu": "Ik bak vandaag koekjes in de vorm van pompoenen.$h#$e#Misschien vertel ik je ooit wel mijn recept.",
   "fall_Sat": "Ben je bevriend met Alex?#$e#Soms maak ik me zo'n zorgen om hem.",
-  "fall_Sat_inlaw_Alex": "Oh, dag lieverd. Ik beschouw je inmiddels als mijn kleinzoon.$h^Oh, dag lieverd. Ik beschouw je inmiddels als mijn kleindochter.$h",
+  "fall_Sat_inlaw_Alex": "Oh, dag lieverd. Ik beschouw je inmiddels als mijn {kleinzoon^kleindochter}.$h",
   "fall_Sun": "Mijn ogen zijn misschien niet meer zo goed, maar mijn neus laat me niet in de steek!#$e#Ik ruik gevallen blaadjes en paddenstoelen. Het doet me denken aan het bos waar ik als klein meisje speelde.",
   "winter_Mon": "Pas op dat je niet uitglijdt over het ijs, lieverd.",
   "winter_Tue": "Heb je het niet koud? Je moet een warmere jas aantrekken, lieverd!#$e#Dit weer is slecht voor mijn gewrichten...$s",
