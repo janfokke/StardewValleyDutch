@@ -32,7 +32,7 @@
   "Mon": "De bomen zien er vandaag mooi uit, of niet?#$q 21/22/211132 Mon_old#Waarom ben je eigenlijk boer geworden?#$r 21 -5 Mon_21#Ik wil veel geld verdienen.#$r 22 5 Mon_22#Het is meer \"puur\" dan het leven in de stad.#$r 211132 5 Mon_211132#Om in de voetsporen van mijn opa te treden.#$r 22 5 Mon_22#Ik wilde mijn oude leven ontvluchten.",
   "Mon_old": "$p 21#Verdien je zoveel als je gehoopt had?|Tijd in de natuur doorbrengen kan veel voldoening geven.",
   "Mon_21": "Hmm. Dat lijkt een beetje oppervlakkig, vind je niet?$s",
-  "Mon_22": "Dat is ongeveer waarom ik hier ben komen wonen!$h",
+  "Mon_22": "Dat is ongeveer ook waarom ik hier ben komen wonen!$h#$b#Ik wilde dichter bij de natuur zijn...",
   "Mon_211132": "Het is lief om je grootvader zo te eren.",
   "GreenRain": "Waar komen al die planten vandaan? Het is een verrassing, maar ik klaag niet...",
   "GreenRainFinished": "Ik denk dat iedereen in de stad bang was voor deze rare regen? Ik had geen idee... Ik vond het gewoon ongelooflijk!",

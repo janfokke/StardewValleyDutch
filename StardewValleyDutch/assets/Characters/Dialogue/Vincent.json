@@ -6,7 +6,7 @@
   "AcceptGift_(TR)FrogEgg": "*piep* *piep* ... Bah! Mag ik het hebben? Mag ik het hebben? Hoera!",
   "GreenRain": "Mama! Ik wil naar buiten om te spelen!%noturn",
   "GreenRain_2": "%Vincent zit onder het mos.",
-  "AcceptGift_alcohol_item": "*snuf*... Wat is dit? Het ruikt vreselijk... Mamaaa!!!$s",
+  "AcceptGift_Negative_alcohol_item": "*ruikt*... Wat is dit? Het ruikt vreselijk... Mamaaa!!!$s",
   "Resort_Entering": "Dat was leuk! Ik wil later kapitein worden!",
   "Resort_Leaving": "Ik wil binnenkort nog eens terugkomen!",
   "Resort_Shore": "Ik wil een haai zien!$h",

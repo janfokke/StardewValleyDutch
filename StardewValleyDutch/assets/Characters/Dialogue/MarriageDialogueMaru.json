@@ -33,7 +33,7 @@
   "Good_1": "Ik kan me nauwelijks nog voorstellen om alleen te zijn sinds we zijn gaan samenwonen.",
   "Good_2": "Neem je even pauze? Dat is goed voor je!",
   "Good_3": "Er gaat veel denkwerk zitten in het runnen van een boerderij. Het is stimulerender dan ik had gedacht!",
-  "Good_4": "Ik heb er een tijdje over gedacht om een robotman voor mezelf te bouwen. Maar jij bent veel beter!$h^Ik heb er een tijdje over gedacht om een robotvrouw voor mezelf te bouwen. Maar jij bent veel beter!$h",
+  "Good_4": "Ik heb er een tijdje over gedacht om een {robotman^robotvrouw} voor mezelf te bouwen. Maar jij bent veel beter!$h",
   "Good_5": "Ik was net mijn huwelijksamulet aan het bewonderen... het is volmaakt. Het is een zeer zeldzaam exemplaar!$l",
   "Good_6": "Afgelopen nacht droomde ik dat ik door een gigantische telescoop keek. Ik zag iets bewegen in de %noun-nevel. Best griezelig.",
   "Neutral_0": "Ik hoop dat je nog steeds van me houdt als ik een beetje aankom.",
